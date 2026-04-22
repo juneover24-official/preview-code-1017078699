@@ -1,0 +1,439 @@
+{
+  "qq_number": "1017078699",
+  "group_number": "1046123815",
+  "updated_at": "2026-04-22T16:19:15.397536",
+  "skins": [
+    {
+      "name": "秋の只要微笑就好了 彩底p",
+      "file": "只要微笑就好了彩底.bds",
+      "thumb": "只要微笑就好了彩底.bds_py_26_light_thumb.png",
+      "full": "只要微笑就好了彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の美乐蒂日记",
+      "file": "美乐蒂日记彩底.bds",
+      "thumb": "美乐蒂日记彩底.bds_py_26_light_thumb.png",
+      "full": "美乐蒂日记彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の走之底 彩底",
+      "file": "秋の走之底彩底.bds",
+      "thumb": "秋の走之底彩底.bds_py_26_default_thumb.png",
+      "full": "秋の走之底彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の夢天使蘇醒",
+      "file": "秋の夢天使蘇醒.bds",
+      "thumb": "秋の夢天使蘇醒.bds_py_26_default_thumb.png",
+      "full": "秋の夢天使蘇醒.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の小乔莓酪",
+      "file": "秋の小乔莓酪.bds",
+      "thumb": "秋の小乔莓酪.bds_py_26_default_thumb.png",
+      "full": "秋の小乔莓酪.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の你的泪水轻如鸿毛",
+      "file": "你的泪水轻如鸿毛彩底.bds",
+      "thumb": "你的泪水轻如鸿毛彩底.bds_py_26_light_thumb.png",
+      "full": "你的泪水轻如鸿毛彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の爱的阴晦诗 彩底",
+      "file": "秋の爱的阴晦诗彩底.bds",
+      "thumb": "秋の爱的阴晦诗彩底.bds_py_26_default_thumb.png",
+      "full": "秋の爱的阴晦诗彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の萌物派对 融底",
+      "file": "秋の萌物派对融底.bds",
+      "thumb": "秋の萌物派对融底.bds_py_26_default_thumb.png",
+      "full": "秋の萌物派对融底.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の你的泪水轻如鸿毛",
+      "file": "你的泪水轻如鸿毛融底.bds",
+      "thumb": "你的泪水轻如鸿毛融底.bds_py_26_light_thumb.png",
+      "full": "你的泪水轻如鸿毛融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の败血型永恒",
+      "file": "败血型永恒融底.bds",
+      "thumb": "败血型永恒融底.bds_py_26_light_thumb.png",
+      "full": "败血型永恒融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の爱的阴晦诗 彩底",
+      "file": "秋の爱的阴晦诗融底.bds",
+      "thumb": "秋の爱的阴晦诗融底.bds_py_26_default_thumb.png",
+      "full": "秋の爱的阴晦诗融底.bds_py_26_default.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "草莓梨子猕猴桃.bds",
+      "thumb": "草莓梨子猕猴桃.bds_py_26_light_thumb.png",
+      "full": "草莓梨子猕猴桃.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の新春小福神",
+      "file": "新春小福神.bds",
+      "thumb": "新春小福神.bds_py_26_light_thumb.png",
+      "full": "新春小福神.bds_py_26_light.png"
+    },
+    {
+      "name": "秋のドン！私はasuka",
+      "file": "秋のドン私はasuka.bds",
+      "thumb": "秋のドン私はasuka.bds_py_26_default_thumb.png",
+      "full": "秋のドン私はasuka.bds_py_26_default.png"
+    },
+    {
+      "name": "四叶草",
+      "file": "四叶草.bds",
+      "thumb": "四叶草.bds_py_26_light_thumb.png",
+      "full": "四叶草.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の轻音少女",
+      "file": "轻音少女.bds",
+      "thumb": "轻音少女.bds_py_26_light_thumb.png",
+      "full": "轻音少女.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の走之底 融底",
+      "file": "秋の走之底融底.bds",
+      "thumb": "秋の走之底融底.bds_py_26_default_thumb.png",
+      "full": "秋の走之底融底.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の橱窗里的小叽 融底",
+      "file": "秋の橱窗里的小叽融底.bds",
+      "thumb": "秋の橱窗里的小叽融底.bds_py_26_light_thumb.png",
+      "full": "秋の橱窗里的小叽融底.bds_py_26_light.png"
+    },
+    {
+      "name": "未寄出的诗",
+      "file": "未寄出的诗融底.bds",
+      "thumb": "未寄出的诗融底.bds_py_26_light_thumb.png",
+      "full": "未寄出的诗融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の布丁狗",
+      "file": "布丁狗.bds",
+      "thumb": "布丁狗.bds_py_26_light_thumb.png",
+      "full": "布丁狗.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の美乐蒂日记",
+      "file": "美乐蒂日记融底.bds",
+      "thumb": "美乐蒂日记融底.bds_py_26_light_thumb.png",
+      "full": "美乐蒂日记融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の橱窗里的小叽 彩底",
+      "file": "秋の橱窗里的小叽彩底.bds",
+      "thumb": "秋の橱窗里的小叽彩底.bds_py_26_light_thumb.png",
+      "full": "秋の橱窗里的小叽彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の仿生记忆里的眸",
+      "file": "仿生记忆里的眸融底.bds",
+      "thumb": "仿生记忆里的眸融底.bds_py_26_light_thumb.png",
+      "full": "仿生记忆里的眸融底.bds_py_26_light.png"
+    },
+    {
+      "name": "未寄出的诗",
+      "file": "未寄出的诗彩底.bds",
+      "thumb": "未寄出的诗彩底.bds_py_26_light_thumb.png",
+      "full": "未寄出的诗彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の你好我是小猫",
+      "file": "你好我是小猫.bds",
+      "thumb": "你好我是小猫.bds_py_26_light_thumb.png",
+      "full": "你好我是小猫.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の仿生记忆里的眸",
+      "file": "仿生记忆里的眸彩底.bds",
+      "thumb": "仿生记忆里的眸彩底.bds_py_26_light_thumb.png",
+      "full": "仿生记忆里的眸彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の烤焦面包屋",
+      "file": "秋の烤焦面包屋.bds",
+      "thumb": "秋の烤焦面包屋.bds_py_26_default_thumb.png",
+      "full": "秋の烤焦面包屋.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の春的安乐死",
+      "file": "秋の春的安乐死融底.bds",
+      "thumb": "秋の春的安乐死融底.bds_py_26_light_thumb.png",
+      "full": "秋の春的安乐死融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の春的安乐死",
+      "file": "秋の春的安乐死彩底.bds",
+      "thumb": "秋の春的安乐死彩底.bds_py_26_light_thumb.png",
+      "full": "秋の春的安乐死彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "仿生琉璃",
+      "file": "仿生琉璃.bds",
+      "thumb": "仿生琉璃.bds_py_26_light_thumb.png",
+      "full": "仿生琉璃.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の败血型永恒",
+      "file": "败血型永恒彩底.bds",
+      "thumb": "败血型永恒彩底.bds_py_26_light_thumb.png",
+      "full": "败血型永恒彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の萌物派对 彩底",
+      "file": "秋の萌物派对彩底.bds",
+      "thumb": "秋の萌物派对彩底.bds_py_26_default_thumb.png",
+      "full": "秋の萌物派对彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の简约仿iOS",
+      "file": "秋の简约仿iOS.bds",
+      "thumb": "秋の简约仿iOS.bds_py_26_light_thumb.png",
+      "full": "秋の简约仿iOS.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の只要微笑就好了 融底",
+      "file": "只要微笑就好了融底.bds",
+      "thumb": "只要微笑就好了融底.bds_py_26_light_thumb.png",
+      "full": "只要微笑就好了融底.bds_py_26_light.png"
+    },
+    {
+      "name": "圣诞快乐",
+      "file": "圣诞快乐.bds",
+      "thumb": "圣诞快乐.bds_py_26_light_thumb.png",
+      "full": "圣诞快乐.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の橱窗里的小叽 彩底",
+      "file": "秋の橱窗里的小叽彩底.bdi",
+      "thumb": "秋の橱窗里的小叽彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の橱窗里的小叽彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の只要微笑就好了 彩底",
+      "file": "只要微笑就好了彩底.bdi",
+      "thumb": "只要微笑就好了彩底.bdi_py_26_light_thumb.png",
+      "full": "只要微笑就好了彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の萌物派对 融底",
+      "file": "秋の萌物派对融底.bdi",
+      "thumb": "秋の萌物派对融底.bdi_py_26_default_thumb.png",
+      "full": "秋の萌物派对融底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の轻音少女",
+      "file": "轻音少女.bdi",
+      "thumb": "轻音少女.bdi_py_26_light_thumb.png",
+      "full": "轻音少女.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の烤焦面包屋",
+      "file": "秋の烤焦面包屋.bdi",
+      "thumb": "秋の烤焦面包屋.bdi_py_26_default_thumb.png",
+      "full": "秋の烤焦面包屋.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の败血型永恒",
+      "file": "败血型永恒融底.bdi",
+      "thumb": "败血型永恒融底.bdi_py_26_light_thumb.png",
+      "full": "败血型永恒融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋のドン！私はasuka",
+      "file": "秋のドン私はasuka.bdi",
+      "thumb": "秋のドン私はasuka.bdi_py_26_default_thumb.png",
+      "full": "秋のドン私はasuka.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の萌物派对 彩底",
+      "file": "秋の萌物派对彩底.bdi",
+      "thumb": "秋の萌物派对彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の萌物派对彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の简约仿iOS",
+      "file": "秋の简约仿iOS.bdi",
+      "thumb": "秋の简约仿iOS.bdi_py_26_light_thumb.png",
+      "full": "秋の简约仿iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の你的泪水轻如鸿毛",
+      "file": "你的泪水轻如鸿毛融底.bdi",
+      "thumb": "你的泪水轻如鸿毛融底.bdi_py_26_light_thumb.png",
+      "full": "你的泪水轻如鸿毛融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の小乔莓酪",
+      "file": "秋の小乔莓酪.bdi",
+      "thumb": "秋の小乔莓酪.bdi_py_26_default_thumb.png",
+      "full": "秋の小乔莓酪.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の春的安乐死",
+      "file": "秋の春的安乐死彩底.bdi",
+      "thumb": "秋の春的安乐死彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の春的安乐死彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "未寄出的诗",
+      "file": "未寄出的诗彩底.bdi",
+      "thumb": "未寄出的诗彩底.bdi_py_26_light_thumb.png",
+      "full": "未寄出的诗彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "四叶草",
+      "file": "四叶草.bdi",
+      "thumb": "四叶草.bdi_py_26_light_thumb.png",
+      "full": "四叶草.bdi_py_26_light.png"
+    },
+    {
+      "name": "未寄出的诗",
+      "file": "未寄出的诗融底.bdi",
+      "thumb": "未寄出的诗融底.bdi_py_26_light_thumb.png",
+      "full": "未寄出的诗融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "仿生琉璃",
+      "file": "仿生琉璃.bdi",
+      "thumb": "仿生琉璃.bdi_py_26_light_thumb.png",
+      "full": "仿生琉璃.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の败血型永恒",
+      "file": "败血型永恒彩底.bdi",
+      "thumb": "败血型永恒彩底.bdi_py_26_light_thumb.png",
+      "full": "败血型永恒彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の春的安乐死",
+      "file": "秋の春的安乐死融底.bdi",
+      "thumb": "秋の春的安乐死融底.bdi_py_26_light_thumb.png",
+      "full": "秋の春的安乐死融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "苏婳贴纸底包",
+      "file": "仿生琉璃融.bdi",
+      "thumb": "仿生琉璃融.bdi_py_26_light_thumb.png",
+      "full": "仿生琉璃融.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の布丁狗融",
+      "file": "布丁狗融.bdi",
+      "thumb": "布丁狗融.bdi_py_26_light_thumb.png",
+      "full": "布丁狗融.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の爱的阴晦诗 彩底",
+      "file": "秋の爱的阴晦诗融底.bdi",
+      "thumb": "秋の爱的阴晦诗融底.bdi_py_26_default_thumb.png",
+      "full": "秋の爱的阴晦诗融底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の橱窗里的小叽 融底",
+      "file": "秋の橱窗里的小叽融底.bdi",
+      "thumb": "秋の橱窗里的小叽融底.bdi_py_26_light_thumb.png",
+      "full": "秋の橱窗里的小叽融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の你好我是小猫",
+      "file": "你好我是小猫.bdi",
+      "thumb": "你好我是小猫.bdi_py_26_light_thumb.png",
+      "full": "你好我是小猫.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の美乐蒂日记",
+      "file": "美乐蒂日记彩底.bdi",
+      "thumb": "美乐蒂日记彩底.bdi_py_26_light_thumb.png",
+      "full": "美乐蒂日记彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "草莓梨子猕猴桃.bdi",
+      "thumb": "草莓梨子猕猴桃.bdi_py_26_light_thumb.png",
+      "full": "草莓梨子猕猴桃.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の仿生记忆里的眸",
+      "file": "仿生记忆里的眸融底.bdi",
+      "thumb": "仿生记忆里的眸融底.bdi_py_26_light_thumb.png",
+      "full": "仿生记忆里的眸融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の走之底 融底",
+      "file": "秋の走之底融底.bdi",
+      "thumb": "秋の走之底融底.bdi_py_26_default_thumb.png",
+      "full": "秋の走之底融底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の仿生记忆里的眸",
+      "file": "仿生记忆里的眸彩底.bdi",
+      "thumb": "仿生记忆里的眸彩底.bdi_py_26_light_thumb.png",
+      "full": "仿生记忆里的眸彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "圣诞快乐",
+      "file": "圣诞快乐.bdi",
+      "thumb": "圣诞快乐.bdi_py_26_light_thumb.png",
+      "full": "圣诞快乐.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の美乐蒂日记",
+      "file": "美乐蒂日记融底.bdi",
+      "thumb": "美乐蒂日记融底.bdi_py_26_light_thumb.png",
+      "full": "美乐蒂日记融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の你的泪水轻如鸿毛",
+      "file": "你的泪水轻如鸿毛彩底.bdi",
+      "thumb": "你的泪水轻如鸿毛彩底.bdi_py_26_light_thumb.png",
+      "full": "你的泪水轻如鸿毛彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の爱的阴晦诗 彩底",
+      "file": "秋の爱的阴晦诗彩底.bdi",
+      "thumb": "秋の爱的阴晦诗彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の爱的阴晦诗彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の夢天使蘇醒",
+      "file": "秋の夢天使蘇醒.bdi",
+      "thumb": "秋の夢天使蘇醒.bdi_py_26_default_thumb.png",
+      "full": "秋の夢天使蘇醒.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の只要微笑就好了 融底",
+      "file": "只要微笑就好了融底.bdi",
+      "thumb": "只要微笑就好了融底.bdi_py_26_light_thumb.png",
+      "full": "只要微笑就好了融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の走之底 彩底",
+      "file": "秋の走之底彩底.bdi",
+      "thumb": "秋の走之底彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の走之底彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の新春小福神",
+      "file": "新春小福神.bdi",
+      "thumb": "新春小福神.bdi_py_26_light_thumb.png",
+      "full": "新春小福神.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "布丁狗.bdi",
+      "thumb": "布丁狗.bdi_py_26_light_thumb.png",
+      "full": "布丁狗.bdi_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "qq_number": "1017078699",
+  "group_number": "957827252",
+  "updated_at": "2026-04-22T16:19:17.457205",
+  "skins": [
+    {
+      "name": "秋の瓷枕游仙",
+      "file": "瓷枕游仙.bds",
+      "thumb": "瓷枕游仙.bds_py_26_light_thumb.png",
+      "full": "瓷枕游仙.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の律令花焚",
+      "file": "律令花焚融底.bds",
+      "thumb": "律令花焚融底.bds_py_26_light_thumb.png",
+      "full": "律令花焚融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の浅草色约定",
+      "file": "浅草色约定彩底.bds",
+      "thumb": "浅草色约定彩底.bds_py_26_light_thumb.png",
+      "full": "浅草色约定彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "Lucy’s Moon 闷闷",
+      "file": "LucysMoon闷闷.bds",
+      "thumb": "LucysMoon闷闷.bds_py_26_light_thumb.png",
+      "full": "LucysMoon闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の浅草色约定",
+      "file": "浅草色约定融底.bds",
+      "thumb": "浅草色约定融底.bds_py_26_light_thumb.png",
+      "full": "浅草色约定融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の芋泥蛋糕",
+      "file": "芋泥蛋糕.bds",
+      "thumb": "芋泥蛋糕.bds_py_26_light_thumb.png",
+      "full": "芋泥蛋糕.bds_py_26_light.png"
+    },
+    {
+      "name": "Lucy’s Moon 脆脆",
+      "file": "LucysMoon脆脆.bds",
+      "thumb": "LucysMoon脆脆.bds_py_26_light_thumb.png",
+      "full": "LucysMoon脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の黑帆残页",
+      "file": "黑帆残页融底.bds",
+      "thumb": "黑帆残页融底.bds_py_26_light_thumb.png",
+      "full": "黑帆残页融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の黑荆棘圣冠",
+      "file": "黑荆棘圣冠彩底.bds",
+      "thumb": "黑荆棘圣冠彩底.bds_py_26_light_thumb.png",
+      "full": "黑荆棘圣冠彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の律令花焚",
+      "file": "律令花焚彩底.bds",
+      "thumb": "律令花焚彩底.bds_py_26_light_thumb.png",
+      "full": "律令花焚彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の黑荆棘圣冠",
+      "file": "黑荆棘圣冠融底.bds",
+      "thumb": "黑荆棘圣冠融底.bds_py_26_light_thumb.png",
+      "full": "黑荆棘圣冠融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の黑帆残页",
+      "file": "黑帆残页彩底.bds",
+      "thumb": "黑帆残页彩底.bds_py_26_light_thumb.png",
+      "full": "黑帆残页彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の芋泥蛋糕",
+      "file": "芋泥蛋糕.bdi",
+      "thumb": "芋泥蛋糕.bdi_py_26_light_thumb.png",
+      "full": "芋泥蛋糕.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の律令花焚",
+      "file": "律令花焚融底.bdi",
+      "thumb": "律令花焚融底.bdi_py_26_light_thumb.png",
+      "full": "律令花焚融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の瓷枕游仙",
+      "file": "瓷枕游仙.bdi",
+      "thumb": "瓷枕游仙.bdi_py_26_light_thumb.png",
+      "full": "瓷枕游仙.bdi_py_26_light.png"
+    },
+    {
+      "name": "Lucy’s Moon 脆脆",
+      "file": "LucysMoon脆脆.bdi",
+      "thumb": "LucysMoon脆脆.bdi_py_26_light_thumb.png",
+      "full": "LucysMoon脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の黑帆残页",
+      "file": "黑帆残页融底.bdi",
+      "thumb": "黑帆残页融底.bdi_py_26_light_thumb.png",
+      "full": "黑帆残页融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の黑帆残页",
+      "file": "黑帆残页彩底.bdi",
+      "thumb": "黑帆残页彩底.bdi_py_26_light_thumb.png",
+      "full": "黑帆残页彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の黑荆棘圣冠",
+      "file": "黑荆棘圣冠融底.bdi",
+      "thumb": "黑荆棘圣冠融底.bdi_py_26_light_thumb.png",
+      "full": "黑荆棘圣冠融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の律令花焚",
+      "file": "律令花焚彩底.bdi",
+      "thumb": "律令花焚彩底.bdi_py_26_light_thumb.png",
+      "full": "律令花焚彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の浅草色约定",
+      "file": "浅草色约定彩底.bdi",
+      "thumb": "浅草色约定彩底.bdi_py_26_light_thumb.png",
+      "full": "浅草色约定彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の黑荆棘圣冠",
+      "file": "黑荆棘圣冠彩底.bdi",
+      "thumb": "黑荆棘圣冠彩底.bdi_py_26_light_thumb.png",
+      "full": "黑荆棘圣冠彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "Lucy’s Moon 闷闷",
+      "file": "LucysMoon闷闷.bdi",
+      "thumb": "LucysMoon闷闷.bdi_py_26_light_thumb.png",
+      "full": "LucysMoon闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の浅草色约定",
+      "file": "浅草色约定融底.bdi",
+      "thumb": "浅草色约定融底.bdi_py_26_light_thumb.png",
+      "full": "浅草色约定融底.bdi_py_26_light.png"
+    }
+  ]
+}
