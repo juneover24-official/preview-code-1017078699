@@ -1,38 +1,8 @@
 {
   "qq_number": "1017078699",
   "group_number": "474794975",
-  "updated_at": "2026-04-23T15:48:42.796074",
+  "updated_at": "2026-04-23T15:51:28.671122",
   "skins": [
-    {
-      "name": "薇洛丝·血棘",
-      "file": "薇洛丝血棘.bdi",
-      "thumb": "薇洛丝血棘.bdi_py_26_default_thumb.png",
-      "full": "薇洛丝血棘.bdi_py_26_default.png"
-    },
-    {
-      "name": "薇洛丝·血棘✮融",
-      "file": "薇洛丝血棘融.bdi",
-      "thumb": "薇洛丝血棘融.bdi_py_26_default_thumb.png",
-      "full": "薇洛丝血棘融.bdi_py_26_default.png"
-    },
-    {
-      "name": "†黑纱与银版上的无名少女†",
-      "file": "融黑纱与银版上的无名少女.bdi",
-      "thumb": "融黑纱与银版上的无名少女.bdi_py_26_default_thumb.png",
-      "full": "融黑纱与银版上的无名少女.bdi_py_26_default.png"
-    },
-    {
-      "name": "†黑纱与银版上的无名少女†",
-      "file": "黑纱与银版上的无名少女.bdi",
-      "thumb": "黑纱与银版上的无名少女.bdi_py_26_default_thumb.png",
-      "full": "黑纱与银版上的无名少女.bdi_py_26_default.png"
-    },
-    {
-      "name": "逃离病历室",
-      "file": "逃离病历室.bdi",
-      "thumb": "逃离病历室.bdi_py_26_light_thumb.png",
-      "full": "逃离病历室.bdi_py_26_light.png"
-    },
     {
       "name": "†黑纱与银版上的无名少女†",
       "file": "融黑纱与银版上的无名少女.bds",
@@ -62,6 +32,36 @@
       "file": "薇洛丝血棘融.bds",
       "thumb": "薇洛丝血棘融.bds_py_26_default_thumb.png",
       "full": "薇洛丝血棘融.bds_py_26_default.png"
+    },
+    {
+      "name": "薇洛丝·血棘",
+      "file": "薇洛丝血棘.bdi",
+      "thumb": "薇洛丝血棘.bdi_py_26_default_thumb.png",
+      "full": "薇洛丝血棘.bdi_py_26_default.png"
+    },
+    {
+      "name": "薇洛丝·血棘✮融",
+      "file": "薇洛丝血棘融.bdi",
+      "thumb": "薇洛丝血棘融.bdi_py_26_default_thumb.png",
+      "full": "薇洛丝血棘融.bdi_py_26_default.png"
+    },
+    {
+      "name": "†黑纱与银版上的无名少女†",
+      "file": "融黑纱与银版上的无名少女.bdi",
+      "thumb": "融黑纱与银版上的无名少女.bdi_py_26_default_thumb.png",
+      "full": "融黑纱与银版上的无名少女.bdi_py_26_default.png"
+    },
+    {
+      "name": "†黑纱与银版上的无名少女†",
+      "file": "黑纱与银版上的无名少女.bdi",
+      "thumb": "黑纱与银版上的无名少女.bdi_py_26_default_thumb.png",
+      "full": "黑纱与银版上的无名少女.bdi_py_26_default.png"
+    },
+    {
+      "name": "逃离病历室",
+      "file": "逃离病历室.bdi",
+      "thumb": "逃离病历室.bdi_py_26_light_thumb.png",
+      "full": "逃离病历室.bdi_py_26_light.png"
     }
   ]
 }

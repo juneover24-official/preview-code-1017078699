@@ -1,38 +1,8 @@
 {
   "qq_number": "1017078699",
   "group_number": "611197437",
-  "updated_at": "2026-04-23T15:48:43.126791",
+  "updated_at": "2026-04-23T15:51:29.056186",
   "skins": [
-    {
-      "name": "紫结华",
-      "file": "紫结华.bdi",
-      "thumb": "紫结华.bdi_py_26_light_thumb.png",
-      "full": "紫结华.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の雨眠症候群",
-      "file": "秋の雨眠症候群融底.bdi",
-      "thumb": "秋の雨眠症候群融底.bdi_py_26_light_thumb.png",
-      "full": "秋の雨眠症候群融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の雨眠症候群",
-      "file": "秋の雨眠症候群彩底.bdi",
-      "thumb": "秋の雨眠症候群彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の雨眠症候群彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋のone last kiss",
-      "file": "onelastkiss.bdi",
-      "thumb": "onelastkiss.bdi_py_26_light_thumb.png",
-      "full": "onelastkiss.bdi_py_26_light.png"
-    },
-    {
-      "name": "Misaki Mei",
-      "file": "MisakiMei.bdi",
-      "thumb": "MisakiMei.bdi_py_26_light_thumb.png",
-      "full": "MisakiMei.bdi_py_26_light.png"
-    },
     {
       "name": "秋の雨眠症候群",
       "file": "秋の雨眠症候群融底.bds",
@@ -62,6 +32,36 @@
       "file": "秋の雨眠症候群彩底.bds",
       "thumb": "秋の雨眠症候群彩底.bds_py_26_light_thumb.png",
       "full": "秋の雨眠症候群彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "紫结华",
+      "file": "紫结华.bdi",
+      "thumb": "紫结华.bdi_py_26_light_thumb.png",
+      "full": "紫结华.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の雨眠症候群",
+      "file": "秋の雨眠症候群融底.bdi",
+      "thumb": "秋の雨眠症候群融底.bdi_py_26_light_thumb.png",
+      "full": "秋の雨眠症候群融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の雨眠症候群",
+      "file": "秋の雨眠症候群彩底.bdi",
+      "thumb": "秋の雨眠症候群彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の雨眠症候群彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋のone last kiss",
+      "file": "onelastkiss.bdi",
+      "thumb": "onelastkiss.bdi_py_26_light_thumb.png",
+      "full": "onelastkiss.bdi_py_26_light.png"
+    },
+    {
+      "name": "Misaki Mei",
+      "file": "MisakiMei.bdi",
+      "thumb": "MisakiMei.bdi_py_26_light_thumb.png",
+      "full": "MisakiMei.bdi_py_26_light.png"
     }
   ]
 }

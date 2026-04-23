@@ -1,8 +1,758 @@
 {
   "qq_number": "1017078699",
   "group_number": "1038772131",
-  "updated_at": "2026-04-23T15:48:41.178150",
+  "updated_at": "2026-04-23T15:51:26.802737",
   "skins": [
+    {
+      "name": "秋の圆环之理",
+      "file": "秋の圆环之理融底.bds",
+      "thumb": "秋の圆环之理融底.bds_py_26_light_thumb.png",
+      "full": "秋の圆环之理融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の曼珠沙华舟",
+      "file": "曼珠沙华舟融底.bds",
+      "thumb": "曼珠沙华舟融底.bds_py_26_light_thumb.png",
+      "full": "曼珠沙华舟融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の灰色群缎",
+      "file": "灰色群缎融底.bds",
+      "thumb": "灰色群缎融底.bds_py_26_light_thumb.png",
+      "full": "灰色群缎融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の痛觉分辨率",
+      "file": "痛觉分辨率融底.bds",
+      "thumb": "痛觉分辨率融底.bds_py_26_light_thumb.png",
+      "full": "痛觉分辨率融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の少女幻想时刻",
+      "file": "少女幻想时刻彩底小.bds",
+      "thumb": "少女幻想时刻彩底小.bds_py_26_default_thumb.png",
+      "full": "少女幻想时刻彩底小.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の永066",
+      "file": "永066.bds",
+      "thumb": "永066.bds_py_26_light_thumb.png",
+      "full": "永066.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の睫毛电压240V",
+      "file": "睫毛电压240V融底.bds",
+      "thumb": "睫毛电压240V融底.bds_py_26_light_thumb.png",
+      "full": "睫毛电压240V融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の仓鼠化小埋",
+      "file": "仓鼠化小埋融底.bds",
+      "thumb": "仓鼠化小埋融底.bds_py_26_light_thumb.png",
+      "full": "仓鼠化小埋融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の哑光祷言",
+      "file": "哑光祷言彩底.bds",
+      "thumb": "哑光祷言彩底.bds_py_26_light_thumb.png",
+      "full": "哑光祷言彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の痛觉分辨率",
+      "file": "痛觉分辨率彩底.bds",
+      "thumb": "痛觉分辨率彩底.bds_py_26_light_thumb.png",
+      "full": "痛觉分辨率彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永054",
+      "file": "永054.bds",
+      "thumb": "永054.bds_py_26_light_thumb.png",
+      "full": "永054.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の神兵小将",
+      "file": "神兵小将融底.bds",
+      "thumb": "神兵小将融底.bds_py_26_light_thumb.png",
+      "full": "神兵小将融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の千骨绯梦",
+      "file": "千骨绯梦融底.bds",
+      "thumb": "千骨绯梦融底.bds_py_26_light_thumb.png",
+      "full": "千骨绯梦融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の熊兔甜品铺子",
+      "file": "熊兔甜品铺子融底.bds",
+      "thumb": "熊兔甜品铺子融底.bds_py_26_light_thumb.png",
+      "full": "熊兔甜品铺子融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永046",
+      "file": "永046.bds",
+      "thumb": "永046.bds_py_26_light_thumb.png",
+      "full": "永046.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の神兵小将",
+      "file": "神兵小将彩底.bds",
+      "thumb": "神兵小将彩底.bds_py_26_light_thumb.png",
+      "full": "神兵小将彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の曼珠沙华舟",
+      "file": "曼珠沙华舟彩底.bds",
+      "thumb": "曼珠沙华舟彩底.bds_py_26_light_thumb.png",
+      "full": "曼珠沙华舟彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋のRimuru Tempest",
+      "file": "永037融底.bds",
+      "thumb": "永037融底.bds_py_26_light_thumb.png",
+      "full": "永037融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永058",
+      "file": "永058.bds",
+      "thumb": "永058.bds_py_26_light_thumb.png",
+      "full": "永058.bds_py_26_light.png"
+    },
+    {
+      "name": "永044灰域梦境",
+      "file": "灰域梦境彩底.bds",
+      "thumb": "灰域梦境彩底.bds_py_26_light_thumb.png",
+      "full": "灰域梦境彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永056",
+      "file": "永056.bds",
+      "thumb": "永056.bds_py_26_light_thumb.png",
+      "full": "永056.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の白影の斜線",
+      "file": "白影の斜線彩底.bds",
+      "thumb": "白影の斜線彩底.bds_py_26_light_thumb.png",
+      "full": "白影の斜線彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の苏丹的游戏",
+      "file": "永036.bds",
+      "thumb": "永036.bds_py_26_light_thumb.png",
+      "full": "永036.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の抖s玻璃剑批发",
+      "file": "抖s玻璃剑批发融底.bds",
+      "thumb": "抖s玻璃剑批发融底.bds_py_26_default_thumb.png",
+      "full": "抖s玻璃剑批发融底.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の黑白双生格",
+      "file": "黑白双生格彩底.bds",
+      "thumb": "黑白双生格彩底.bds_py_26_light_thumb.png",
+      "full": "黑白双生格彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の雾桃休眠期",
+      "file": "雾桃休眠期彩底.bds",
+      "thumb": "雾桃休眠期彩底.bds_py_26_light_thumb.png",
+      "full": "雾桃休眠期彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の白影の斜線",
+      "file": "白影の斜線融底.bds",
+      "thumb": "白影の斜線融底.bds_py_26_light_thumb.png",
+      "full": "白影の斜線融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永067",
+      "file": "永067.bds",
+      "thumb": "永067.bds_py_26_light_thumb.png",
+      "full": "永067.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永068我卖鱼养你啊",
+      "file": "永068.bds",
+      "thumb": "永068.bds_py_26_light_thumb.png",
+      "full": "永068.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の圆环之理无动销",
+      "file": "圆环之理无动销.bds",
+      "thumb": "圆环之理无动销.bds_py_26_light_thumb.png",
+      "full": "圆环之理无动销.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾丝羽翼的告白诗",
+      "file": "永042.bds",
+      "thumb": "永042.bds_py_26_light_thumb.png",
+      "full": "永042.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永057",
+      "file": "永057彩底.bds",
+      "thumb": "永057彩底.bds_py_26_light_thumb.png",
+      "full": "永057彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の一万颗雨滴的距离",
+      "file": "一万颗雨滴的距离融底.bds",
+      "thumb": "一万颗雨滴的距离融底.bds_py_26_light_thumb.png",
+      "full": "一万颗雨滴的距离融底.bds_py_26_light.png"
+    },
+    {
+      "name": "永051",
+      "file": "永051融底.bds",
+      "thumb": "永051融底.bds_py_26_light_thumb.png",
+      "full": "永051融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の一万颗雨滴的距离",
+      "file": "一万颗雨滴的距离彩底.bds",
+      "thumb": "一万颗雨滴的距离彩底.bds_py_26_light_thumb.png",
+      "full": "一万颗雨滴的距离彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永040",
+      "file": "永040融底.bds",
+      "thumb": "永040融底.bds_py_26_light_thumb.png",
+      "full": "永040融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永052",
+      "file": "永052.bds",
+      "thumb": "永052.bds_py_26_light_thumb.png",
+      "full": "永052.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の待机状态蓝",
+      "file": "待机状态蓝融底.bds",
+      "thumb": "待机状态蓝融底.bds_py_26_light_thumb.png",
+      "full": "待机状态蓝融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永004",
+      "file": "秋の永004融底.bds",
+      "thumb": "秋の永004融底.bds_py_26_light_thumb.png",
+      "full": "秋の永004融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の圆环之理",
+      "file": "秋の圆环之理彩底.bds",
+      "thumb": "秋の圆环之理彩底.bds_py_26_light_thumb.png",
+      "full": "秋の圆环之理彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の♱ 悲鸣共鸣 ♱（浅色）彩底",
+      "file": "秋の悲鸣共鸣浅色彩底.bds",
+      "thumb": "秋の悲鸣共鸣浅色彩底.bds_py_26_light_thumb.png",
+      "full": "秋の悲鸣共鸣浅色彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永063",
+      "file": "永063彩底.bds",
+      "thumb": "永063彩底.bds_py_26_light_thumb.png",
+      "full": "永063彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の暗街的审判诗",
+      "file": "永038.bds",
+      "thumb": "永038.bds_py_26_light_thumb.png",
+      "full": "永038.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永003",
+      "file": "秋の永003彩底.bds",
+      "thumb": "秋の永003彩底.bds_py_26_light_thumb.png",
+      "full": "秋の永003彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "永060",
+      "file": "永060.bds",
+      "thumb": "永060.bds_py_26_light_thumb.png",
+      "full": "永060.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永047",
+      "file": "永047融底.bds",
+      "thumb": "永047融底.bds_py_26_light_thumb.png",
+      "full": "永047融底.bds_py_26_light.png"
+    },
+    {
+      "name": "永053",
+      "file": "永053.bds",
+      "thumb": "永053.bds_py_26_light_thumb.png",
+      "full": "永053.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の哑光祷言",
+      "file": "哑光祷言融底.bds",
+      "thumb": "哑光祷言融底.bds_py_26_light_thumb.png",
+      "full": "哑光祷言融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の紫泪丝带结",
+      "file": "紫泪丝带结彩底.bds",
+      "thumb": "紫泪丝带结彩底.bds_py_26_light_thumb.png",
+      "full": "紫泪丝带结彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永048",
+      "file": "永048.bds",
+      "thumb": "永048.bds_py_26_light_thumb.png",
+      "full": "永048.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の拜托一直看着我吧",
+      "file": "拜托一直看着我吧彩底.bds",
+      "thumb": "拜托一直看着我吧彩底.bds_py_26_light_thumb.png",
+      "full": "拜托一直看着我吧彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "流心巧巧",
+      "file": "流心巧巧.bds",
+      "thumb": "流心巧巧.bds_py_26_light_thumb.png",
+      "full": "流心巧巧.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の睫毛电压240V",
+      "file": "睫毛电压240V大融底.bds",
+      "thumb": "睫毛电压240V大融底.bds_py_26_light_thumb.png",
+      "full": "睫毛电压240V大融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の黑白双生格",
+      "file": "黑白双生格融底.bds",
+      "thumb": "黑白双生格融底.bds_py_26_light_thumb.png",
+      "full": "黑白双生格融底.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "锥生零.bds",
+      "thumb": "锥生零.bds_py_26_light_thumb.png",
+      "full": "锥生零.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の家庭教师",
+      "file": "家庭教师彩底.bds",
+      "thumb": "家庭教师彩底.bds_py_26_light_thumb.png",
+      "full": "家庭教师彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の虹膜兔洞",
+      "file": "虹膜兔洞融底.bds",
+      "thumb": "虹膜兔洞融底.bds_py_26_light_thumb.png",
+      "full": "虹膜兔洞融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永070",
+      "file": "永070彩底.bds",
+      "thumb": "永070彩底.bds_py_26_light_thumb.png",
+      "full": "永070彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の吹个空条吗",
+      "file": "永035融底.bds",
+      "thumb": "永035融底.bds_py_26_light_thumb.png",
+      "full": "永035融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の睫毛电压240V",
+      "file": "睫毛电压240V大彩底.bds",
+      "thumb": "睫毛电压240V大彩底.bds_py_26_light_thumb.png",
+      "full": "睫毛电压240V大彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の小猫萌",
+      "file": "小猫萌.bds",
+      "thumb": "小猫萌.bds_py_26_light_thumb.png",
+      "full": "小猫萌.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の熊兔甜品铺子",
+      "file": "熊兔甜品铺子彩底.bds",
+      "thumb": "熊兔甜品铺子彩底.bds_py_26_light_thumb.png",
+      "full": "熊兔甜品铺子彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "镜中融化糖霜",
+      "file": "镜中融化糖霜彩底.bds",
+      "thumb": "镜中融化糖霜彩底.bds_py_26_light_thumb.png",
+      "full": "镜中融化糖霜彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "Doki-希尔薇",
+      "file": "Doki-希尔薇.bds",
+      "thumb": "Doki-希尔薇.bds_py_26_light_thumb.png",
+      "full": "Doki-希尔薇.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永043",
+      "file": "永043.bds",
+      "thumb": "永043.bds_py_26_light_thumb.png",
+      "full": "永043.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の♱ 悲鸣共鸣 ♱（浅色）融底",
+      "file": "秋の悲鸣共鸣浅色融底.bds",
+      "thumb": "秋の悲鸣共鸣浅色融底.bds_py_26_light_thumb.png",
+      "full": "秋の悲鸣共鸣浅色融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永055",
+      "file": "永055.bds",
+      "thumb": "永055.bds_py_26_light_thumb.png",
+      "full": "永055.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永049",
+      "file": "永049.bds",
+      "thumb": "永049.bds_py_26_light_thumb.png",
+      "full": "永049.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の✟ 悲鸣共鸣 ✟ （深色）融底",
+      "file": "秋の悲鸣共鸣深色融底.bds",
+      "thumb": "秋の悲鸣共鸣深色融底.bds_py_26_light_thumb.png",
+      "full": "秋の悲鸣共鸣深色融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永069",
+      "file": "永069.bds",
+      "thumb": "永069.bds_py_26_light_thumb.png",
+      "full": "永069.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永065",
+      "file": "永065.bds",
+      "thumb": "永065.bds_py_26_light_thumb.png",
+      "full": "永065.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の维多利亚茶渍",
+      "file": "维多利亚茶渍彩底.bds",
+      "thumb": "维多利亚茶渍彩底.bds_py_26_light_thumb.png",
+      "full": "维多利亚茶渍彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "纯白蕾丝绷带",
+      "file": "纯白蕾丝绷带.bds",
+      "thumb": "纯白蕾丝绷带.bds_py_26_light_thumb.png",
+      "full": "纯白蕾丝绷带.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の雾桃休眠期",
+      "file": "雾桃休眠期融底.bds",
+      "thumb": "雾桃休眠期融底.bds_py_26_light_thumb.png",
+      "full": "雾桃休眠期融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永062",
+      "file": "永062融底.bds",
+      "thumb": "永062融底.bds_py_26_light_thumb.png",
+      "full": "永062融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の仓鼠化小埋",
+      "file": "仓鼠化小埋彩底.bds",
+      "thumb": "仓鼠化小埋彩底.bds_py_26_light_thumb.png",
+      "full": "仓鼠化小埋彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永071",
+      "file": "永071融底.bds",
+      "thumb": "永071融底.bds_py_26_light_thumb.png",
+      "full": "永071融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永061",
+      "file": "永061.bds",
+      "thumb": "永061.bds_py_26_light_thumb.png",
+      "full": "永061.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の睫毛电压240V",
+      "file": "睫毛电压240V彩底.bds",
+      "thumb": "睫毛电压240V彩底.bds_py_26_light_thumb.png",
+      "full": "睫毛电压240V彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永040",
+      "file": "永040彩底.bds",
+      "thumb": "永040彩底.bds_py_26_light_thumb.png",
+      "full": "永040彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永050",
+      "file": "永050彩底.bds",
+      "thumb": "永050彩底.bds_py_26_light_thumb.png",
+      "full": "永050彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永064",
+      "file": "永064.bds",
+      "thumb": "永064.bds_py_26_light_thumb.png",
+      "full": "永064.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の小小新日常",
+      "file": "小小新日常.bds",
+      "thumb": "小小新日常.bds_py_26_light_thumb.png",
+      "full": "小小新日常.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永070",
+      "file": "永070融底.bds",
+      "thumb": "永070融底.bds_py_26_light_thumb.png",
+      "full": "永070融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永057",
+      "file": "永057融底.bds",
+      "thumb": "永057融底.bds_py_26_light_thumb.png",
+      "full": "永057融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の吹个空条吗",
+      "file": "永035彩底.bds",
+      "thumb": "永035彩底.bds_py_26_light_thumb.png",
+      "full": "永035彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の虹膜兔洞",
+      "file": "虹膜兔洞彩底.bds",
+      "thumb": "虹膜兔洞彩底.bds_py_26_light_thumb.png",
+      "full": "虹膜兔洞彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永003",
+      "file": "秋の永003融底.bds",
+      "thumb": "秋の永003融底.bds_py_26_light_thumb.png",
+      "full": "秋の永003融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の千骨绯梦",
+      "file": "千骨绯梦彩底.bds",
+      "thumb": "千骨绯梦彩底.bds_py_26_light_thumb.png",
+      "full": "千骨绯梦彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の家庭教师",
+      "file": "家庭教师融底.bds",
+      "thumb": "家庭教师融底.bds_py_26_light_thumb.png",
+      "full": "家庭教师融底.bds_py_26_light.png"
+    },
+    {
+      "name": "永044灰域梦境",
+      "file": "灰域梦境融底.bds",
+      "thumb": "灰域梦境融底.bds_py_26_light_thumb.png",
+      "full": "灰域梦境融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の心跳是延迟的遗言",
+      "file": "心跳是延迟的遗言融底.bds",
+      "thumb": "心跳是延迟的遗言融底.bds_py_26_light_thumb.png",
+      "full": "心跳是延迟的遗言融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の紫泪丝带结",
+      "file": "紫泪丝带结融底.bds",
+      "thumb": "紫泪丝带结融底.bds_py_26_light_thumb.png",
+      "full": "紫泪丝带结融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永041世界第一公主殿下",
+      "file": "永041.bds",
+      "thumb": "永041.bds_py_26_light_thumb.png",
+      "full": "永041.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の待机状态蓝",
+      "file": "待机状态蓝彩底.bds",
+      "thumb": "待机状态蓝彩底.bds_py_26_light_thumb.png",
+      "full": "待机状态蓝彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋のRimuru Tempest",
+      "file": "永037彩底.bds",
+      "thumb": "永037彩底.bds_py_26_light_thumb.png",
+      "full": "永037彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の维多利亚茶渍",
+      "file": "维多利亚茶渍融底.bds",
+      "thumb": "维多利亚茶渍融底.bds_py_26_light_thumb.png",
+      "full": "维多利亚茶渍融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永071",
+      "file": "永071彩底.bds",
+      "thumb": "永071彩底.bds_py_26_light_thumb.png",
+      "full": "永071彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の海鸥与star",
+      "file": "海鸥与star彩底.bds",
+      "thumb": "海鸥与star彩底.bds_py_26_light_thumb.png",
+      "full": "海鸥与star彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永039 排球少年",
+      "file": "永039.bds",
+      "thumb": "永039.bds_py_26_light_thumb.png",
+      "full": "永039.bds_py_26_light.png"
+    },
+    {
+      "name": "镜中融化糖霜",
+      "file": "镜中融化糖霜融底.bds",
+      "thumb": "镜中融化糖霜融底.bds_py_26_light_thumb.png",
+      "full": "镜中融化糖霜融底.bds_py_26_light.png"
+    },
+    {
+      "name": "永059",
+      "file": "永059.bds",
+      "thumb": "永059.bds_py_26_light_thumb.png",
+      "full": "永059.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の狂气心电图",
+      "file": "狂气心电图融底.bds",
+      "thumb": "狂气心电图融底.bds_py_26_light_thumb.png",
+      "full": "狂气心电图融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永001 彩底",
+      "file": "秋の永001融底.bds",
+      "thumb": "秋の永001融底.bds_py_26_light_thumb.png",
+      "full": "秋の永001融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永047",
+      "file": "永047彩底.bds",
+      "thumb": "永047彩底.bds_py_26_light_thumb.png",
+      "full": "永047彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の心跳是延迟的遗言",
+      "file": "心跳是延迟的遗言彩底.bds",
+      "thumb": "心跳是延迟的遗言彩底.bds_py_26_light_thumb.png",
+      "full": "心跳是延迟的遗言彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永004",
+      "file": "秋の永004彩底.bds",
+      "thumb": "秋の永004彩底.bds_py_26_light_thumb.png",
+      "full": "秋の永004彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の狂气心电图",
+      "file": "狂气心电图彩底.bds",
+      "thumb": "狂气心电图彩底.bds_py_26_light_thumb.png",
+      "full": "狂气心电图彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の少女幻想时刻",
+      "file": "少女幻想时刻融底小.bds",
+      "thumb": "少女幻想时刻融底小.bds_py_26_default_thumb.png",
+      "full": "少女幻想时刻融底小.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の灰色群缎",
+      "file": "灰色群缎彩底.bds",
+      "thumb": "灰色群缎彩底.bds_py_26_light_thumb.png",
+      "full": "灰色群缎彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の海鸥与star",
+      "file": "海鸥与star融底.bds",
+      "thumb": "海鸥与star融底.bds_py_26_light_thumb.png",
+      "full": "海鸥与star融底.bds_py_26_light.png"
+    },
+    {
+      "name": "♡：Missyo",
+      "file": "Missyo.bds",
+      "thumb": "Missyo.bds_py_26_light_thumb.png",
+      "full": "Missyo.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永062",
+      "file": "永062彩底.bds",
+      "thumb": "永062彩底.bds_py_26_light_thumb.png",
+      "full": "永062彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の逆十字双瞳",
+      "file": "逆十字双瞳彩底.bds",
+      "thumb": "逆十字双瞳彩底.bds_py_26_light_thumb.png",
+      "full": "逆十字双瞳彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の逆十字双瞳",
+      "file": "逆十字双瞳融底.bds",
+      "thumb": "逆十字双瞳融底.bds_py_26_light_thumb.png",
+      "full": "逆十字双瞳融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永001 彩底",
+      "file": "秋の永001彩底.bds",
+      "thumb": "秋の永001彩底.bds_py_26_light_thumb.png",
+      "full": "秋の永001彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永045",
+      "file": "永045融底.bds",
+      "thumb": "永045融底.bds_py_26_light_thumb.png",
+      "full": "永045融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永063",
+      "file": "永063融底.bds",
+      "thumb": "永063融底.bds_py_26_light_thumb.png",
+      "full": "永063融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の薄荷奶霜云",
+      "file": "薄荷奶霜云彩底.bds",
+      "thumb": "薄荷奶霜云彩底.bds_py_26_light_thumb.png",
+      "full": "薄荷奶霜云彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の抖s玻璃剑批发",
+      "file": "抖s玻璃剑批发彩底.bds",
+      "thumb": "抖s玻璃剑批发彩底.bds_py_26_default_thumb.png",
+      "full": "抖s玻璃剑批发彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の✟ 悲鸣共鸣 ✟ （深色）彩底",
+      "file": "秋の悲鸣共鸣深色彩底.bds",
+      "thumb": "秋の悲鸣共鸣深色彩底.bds_py_26_light_thumb.png",
+      "full": "秋の悲鸣共鸣深色彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の薄荷奶霜云",
+      "file": "薄荷奶霜云融底.bds",
+      "thumb": "薄荷奶霜云融底.bds_py_26_light_thumb.png",
+      "full": "薄荷奶霜云融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の拜托一直看着我吧",
+      "file": "拜托一直看着我吧融底.bds",
+      "thumb": "拜托一直看着我吧融底.bds_py_26_light_thumb.png",
+      "full": "拜托一直看着我吧融底.bds_py_26_light.png"
+    },
+    {
+      "name": "永051",
+      "file": "永051彩底.bds",
+      "thumb": "永051彩底.bds_py_26_light_thumb.png",
+      "full": "永051彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の永045",
+      "file": "永045彩底.bds",
+      "thumb": "永045彩底.bds_py_26_light_thumb.png",
+      "full": "永045彩底.bds_py_26_light.png"
+    },
     {
       "name": "秋の永001 彩底",
       "file": "秋の永001融底.bdi",
@@ -764,756 +1514,6 @@
       "file": "熊兔甜品铺子融底.bdi",
       "thumb": "熊兔甜品铺子融底.bdi_py_26_light_thumb.png",
       "full": "熊兔甜品铺子融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の圆环之理",
-      "file": "秋の圆环之理融底.bds",
-      "thumb": "秋の圆环之理融底.bds_py_26_light_thumb.png",
-      "full": "秋の圆环之理融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の曼珠沙华舟",
-      "file": "曼珠沙华舟融底.bds",
-      "thumb": "曼珠沙华舟融底.bds_py_26_light_thumb.png",
-      "full": "曼珠沙华舟融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の灰色群缎",
-      "file": "灰色群缎融底.bds",
-      "thumb": "灰色群缎融底.bds_py_26_light_thumb.png",
-      "full": "灰色群缎融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の痛觉分辨率",
-      "file": "痛觉分辨率融底.bds",
-      "thumb": "痛觉分辨率融底.bds_py_26_light_thumb.png",
-      "full": "痛觉分辨率融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の少女幻想时刻",
-      "file": "少女幻想时刻彩底小.bds",
-      "thumb": "少女幻想时刻彩底小.bds_py_26_default_thumb.png",
-      "full": "少女幻想时刻彩底小.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の永066",
-      "file": "永066.bds",
-      "thumb": "永066.bds_py_26_light_thumb.png",
-      "full": "永066.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の睫毛电压240V",
-      "file": "睫毛电压240V融底.bds",
-      "thumb": "睫毛电压240V融底.bds_py_26_light_thumb.png",
-      "full": "睫毛电压240V融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の仓鼠化小埋",
-      "file": "仓鼠化小埋融底.bds",
-      "thumb": "仓鼠化小埋融底.bds_py_26_light_thumb.png",
-      "full": "仓鼠化小埋融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の哑光祷言",
-      "file": "哑光祷言彩底.bds",
-      "thumb": "哑光祷言彩底.bds_py_26_light_thumb.png",
-      "full": "哑光祷言彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の痛觉分辨率",
-      "file": "痛觉分辨率彩底.bds",
-      "thumb": "痛觉分辨率彩底.bds_py_26_light_thumb.png",
-      "full": "痛觉分辨率彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永054",
-      "file": "永054.bds",
-      "thumb": "永054.bds_py_26_light_thumb.png",
-      "full": "永054.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の神兵小将",
-      "file": "神兵小将融底.bds",
-      "thumb": "神兵小将融底.bds_py_26_light_thumb.png",
-      "full": "神兵小将融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の千骨绯梦",
-      "file": "千骨绯梦融底.bds",
-      "thumb": "千骨绯梦融底.bds_py_26_light_thumb.png",
-      "full": "千骨绯梦融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の熊兔甜品铺子",
-      "file": "熊兔甜品铺子融底.bds",
-      "thumb": "熊兔甜品铺子融底.bds_py_26_light_thumb.png",
-      "full": "熊兔甜品铺子融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永046",
-      "file": "永046.bds",
-      "thumb": "永046.bds_py_26_light_thumb.png",
-      "full": "永046.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の神兵小将",
-      "file": "神兵小将彩底.bds",
-      "thumb": "神兵小将彩底.bds_py_26_light_thumb.png",
-      "full": "神兵小将彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の曼珠沙华舟",
-      "file": "曼珠沙华舟彩底.bds",
-      "thumb": "曼珠沙华舟彩底.bds_py_26_light_thumb.png",
-      "full": "曼珠沙华舟彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋のRimuru Tempest",
-      "file": "永037融底.bds",
-      "thumb": "永037融底.bds_py_26_light_thumb.png",
-      "full": "永037融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永058",
-      "file": "永058.bds",
-      "thumb": "永058.bds_py_26_light_thumb.png",
-      "full": "永058.bds_py_26_light.png"
-    },
-    {
-      "name": "永044灰域梦境",
-      "file": "灰域梦境彩底.bds",
-      "thumb": "灰域梦境彩底.bds_py_26_light_thumb.png",
-      "full": "灰域梦境彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永056",
-      "file": "永056.bds",
-      "thumb": "永056.bds_py_26_light_thumb.png",
-      "full": "永056.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の白影の斜線",
-      "file": "白影の斜線彩底.bds",
-      "thumb": "白影の斜線彩底.bds_py_26_light_thumb.png",
-      "full": "白影の斜線彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の苏丹的游戏",
-      "file": "永036.bds",
-      "thumb": "永036.bds_py_26_light_thumb.png",
-      "full": "永036.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の抖s玻璃剑批发",
-      "file": "抖s玻璃剑批发融底.bds",
-      "thumb": "抖s玻璃剑批发融底.bds_py_26_default_thumb.png",
-      "full": "抖s玻璃剑批发融底.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の黑白双生格",
-      "file": "黑白双生格彩底.bds",
-      "thumb": "黑白双生格彩底.bds_py_26_light_thumb.png",
-      "full": "黑白双生格彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の雾桃休眠期",
-      "file": "雾桃休眠期彩底.bds",
-      "thumb": "雾桃休眠期彩底.bds_py_26_light_thumb.png",
-      "full": "雾桃休眠期彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の白影の斜線",
-      "file": "白影の斜線融底.bds",
-      "thumb": "白影の斜線融底.bds_py_26_light_thumb.png",
-      "full": "白影の斜線融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永067",
-      "file": "永067.bds",
-      "thumb": "永067.bds_py_26_light_thumb.png",
-      "full": "永067.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永068我卖鱼养你啊",
-      "file": "永068.bds",
-      "thumb": "永068.bds_py_26_light_thumb.png",
-      "full": "永068.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の圆环之理无动销",
-      "file": "圆环之理无动销.bds",
-      "thumb": "圆环之理无动销.bds_py_26_light_thumb.png",
-      "full": "圆环之理无动销.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾丝羽翼的告白诗",
-      "file": "永042.bds",
-      "thumb": "永042.bds_py_26_light_thumb.png",
-      "full": "永042.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永057",
-      "file": "永057彩底.bds",
-      "thumb": "永057彩底.bds_py_26_light_thumb.png",
-      "full": "永057彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の一万颗雨滴的距离",
-      "file": "一万颗雨滴的距离融底.bds",
-      "thumb": "一万颗雨滴的距离融底.bds_py_26_light_thumb.png",
-      "full": "一万颗雨滴的距离融底.bds_py_26_light.png"
-    },
-    {
-      "name": "永051",
-      "file": "永051融底.bds",
-      "thumb": "永051融底.bds_py_26_light_thumb.png",
-      "full": "永051融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の一万颗雨滴的距离",
-      "file": "一万颗雨滴的距离彩底.bds",
-      "thumb": "一万颗雨滴的距离彩底.bds_py_26_light_thumb.png",
-      "full": "一万颗雨滴的距离彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永040",
-      "file": "永040融底.bds",
-      "thumb": "永040融底.bds_py_26_light_thumb.png",
-      "full": "永040融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永052",
-      "file": "永052.bds",
-      "thumb": "永052.bds_py_26_light_thumb.png",
-      "full": "永052.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の待机状态蓝",
-      "file": "待机状态蓝融底.bds",
-      "thumb": "待机状态蓝融底.bds_py_26_light_thumb.png",
-      "full": "待机状态蓝融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永004",
-      "file": "秋の永004融底.bds",
-      "thumb": "秋の永004融底.bds_py_26_light_thumb.png",
-      "full": "秋の永004融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の圆环之理",
-      "file": "秋の圆环之理彩底.bds",
-      "thumb": "秋の圆环之理彩底.bds_py_26_light_thumb.png",
-      "full": "秋の圆环之理彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の♱ 悲鸣共鸣 ♱（浅色）彩底",
-      "file": "秋の悲鸣共鸣浅色彩底.bds",
-      "thumb": "秋の悲鸣共鸣浅色彩底.bds_py_26_light_thumb.png",
-      "full": "秋の悲鸣共鸣浅色彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永063",
-      "file": "永063彩底.bds",
-      "thumb": "永063彩底.bds_py_26_light_thumb.png",
-      "full": "永063彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の暗街的审判诗",
-      "file": "永038.bds",
-      "thumb": "永038.bds_py_26_light_thumb.png",
-      "full": "永038.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永003",
-      "file": "秋の永003彩底.bds",
-      "thumb": "秋の永003彩底.bds_py_26_light_thumb.png",
-      "full": "秋の永003彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "永060",
-      "file": "永060.bds",
-      "thumb": "永060.bds_py_26_light_thumb.png",
-      "full": "永060.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永047",
-      "file": "永047融底.bds",
-      "thumb": "永047融底.bds_py_26_light_thumb.png",
-      "full": "永047融底.bds_py_26_light.png"
-    },
-    {
-      "name": "永053",
-      "file": "永053.bds",
-      "thumb": "永053.bds_py_26_light_thumb.png",
-      "full": "永053.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の哑光祷言",
-      "file": "哑光祷言融底.bds",
-      "thumb": "哑光祷言融底.bds_py_26_light_thumb.png",
-      "full": "哑光祷言融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の紫泪丝带结",
-      "file": "紫泪丝带结彩底.bds",
-      "thumb": "紫泪丝带结彩底.bds_py_26_light_thumb.png",
-      "full": "紫泪丝带结彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永048",
-      "file": "永048.bds",
-      "thumb": "永048.bds_py_26_light_thumb.png",
-      "full": "永048.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の拜托一直看着我吧",
-      "file": "拜托一直看着我吧彩底.bds",
-      "thumb": "拜托一直看着我吧彩底.bds_py_26_light_thumb.png",
-      "full": "拜托一直看着我吧彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "流心巧巧",
-      "file": "流心巧巧.bds",
-      "thumb": "流心巧巧.bds_py_26_light_thumb.png",
-      "full": "流心巧巧.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の睫毛电压240V",
-      "file": "睫毛电压240V大融底.bds",
-      "thumb": "睫毛电压240V大融底.bds_py_26_light_thumb.png",
-      "full": "睫毛电压240V大融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の黑白双生格",
-      "file": "黑白双生格融底.bds",
-      "thumb": "黑白双生格融底.bds_py_26_light_thumb.png",
-      "full": "黑白双生格融底.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "锥生零.bds",
-      "thumb": "锥生零.bds_py_26_light_thumb.png",
-      "full": "锥生零.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の家庭教师",
-      "file": "家庭教师彩底.bds",
-      "thumb": "家庭教师彩底.bds_py_26_light_thumb.png",
-      "full": "家庭教师彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の虹膜兔洞",
-      "file": "虹膜兔洞融底.bds",
-      "thumb": "虹膜兔洞融底.bds_py_26_light_thumb.png",
-      "full": "虹膜兔洞融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永070",
-      "file": "永070彩底.bds",
-      "thumb": "永070彩底.bds_py_26_light_thumb.png",
-      "full": "永070彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の吹个空条吗",
-      "file": "永035融底.bds",
-      "thumb": "永035融底.bds_py_26_light_thumb.png",
-      "full": "永035融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の睫毛电压240V",
-      "file": "睫毛电压240V大彩底.bds",
-      "thumb": "睫毛电压240V大彩底.bds_py_26_light_thumb.png",
-      "full": "睫毛电压240V大彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の小猫萌",
-      "file": "小猫萌.bds",
-      "thumb": "小猫萌.bds_py_26_light_thumb.png",
-      "full": "小猫萌.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の熊兔甜品铺子",
-      "file": "熊兔甜品铺子彩底.bds",
-      "thumb": "熊兔甜品铺子彩底.bds_py_26_light_thumb.png",
-      "full": "熊兔甜品铺子彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "镜中融化糖霜",
-      "file": "镜中融化糖霜彩底.bds",
-      "thumb": "镜中融化糖霜彩底.bds_py_26_light_thumb.png",
-      "full": "镜中融化糖霜彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "Doki-希尔薇",
-      "file": "Doki-希尔薇.bds",
-      "thumb": "Doki-希尔薇.bds_py_26_light_thumb.png",
-      "full": "Doki-希尔薇.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永043",
-      "file": "永043.bds",
-      "thumb": "永043.bds_py_26_light_thumb.png",
-      "full": "永043.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の♱ 悲鸣共鸣 ♱（浅色）融底",
-      "file": "秋の悲鸣共鸣浅色融底.bds",
-      "thumb": "秋の悲鸣共鸣浅色融底.bds_py_26_light_thumb.png",
-      "full": "秋の悲鸣共鸣浅色融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永055",
-      "file": "永055.bds",
-      "thumb": "永055.bds_py_26_light_thumb.png",
-      "full": "永055.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永049",
-      "file": "永049.bds",
-      "thumb": "永049.bds_py_26_light_thumb.png",
-      "full": "永049.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の✟ 悲鸣共鸣 ✟ （深色）融底",
-      "file": "秋の悲鸣共鸣深色融底.bds",
-      "thumb": "秋の悲鸣共鸣深色融底.bds_py_26_light_thumb.png",
-      "full": "秋の悲鸣共鸣深色融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永069",
-      "file": "永069.bds",
-      "thumb": "永069.bds_py_26_light_thumb.png",
-      "full": "永069.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永065",
-      "file": "永065.bds",
-      "thumb": "永065.bds_py_26_light_thumb.png",
-      "full": "永065.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の维多利亚茶渍",
-      "file": "维多利亚茶渍彩底.bds",
-      "thumb": "维多利亚茶渍彩底.bds_py_26_light_thumb.png",
-      "full": "维多利亚茶渍彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "纯白蕾丝绷带",
-      "file": "纯白蕾丝绷带.bds",
-      "thumb": "纯白蕾丝绷带.bds_py_26_light_thumb.png",
-      "full": "纯白蕾丝绷带.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の雾桃休眠期",
-      "file": "雾桃休眠期融底.bds",
-      "thumb": "雾桃休眠期融底.bds_py_26_light_thumb.png",
-      "full": "雾桃休眠期融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永062",
-      "file": "永062融底.bds",
-      "thumb": "永062融底.bds_py_26_light_thumb.png",
-      "full": "永062融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の仓鼠化小埋",
-      "file": "仓鼠化小埋彩底.bds",
-      "thumb": "仓鼠化小埋彩底.bds_py_26_light_thumb.png",
-      "full": "仓鼠化小埋彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永071",
-      "file": "永071融底.bds",
-      "thumb": "永071融底.bds_py_26_light_thumb.png",
-      "full": "永071融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永061",
-      "file": "永061.bds",
-      "thumb": "永061.bds_py_26_light_thumb.png",
-      "full": "永061.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の睫毛电压240V",
-      "file": "睫毛电压240V彩底.bds",
-      "thumb": "睫毛电压240V彩底.bds_py_26_light_thumb.png",
-      "full": "睫毛电压240V彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永040",
-      "file": "永040彩底.bds",
-      "thumb": "永040彩底.bds_py_26_light_thumb.png",
-      "full": "永040彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永050",
-      "file": "永050彩底.bds",
-      "thumb": "永050彩底.bds_py_26_light_thumb.png",
-      "full": "永050彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永064",
-      "file": "永064.bds",
-      "thumb": "永064.bds_py_26_light_thumb.png",
-      "full": "永064.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の小小新日常",
-      "file": "小小新日常.bds",
-      "thumb": "小小新日常.bds_py_26_light_thumb.png",
-      "full": "小小新日常.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永070",
-      "file": "永070融底.bds",
-      "thumb": "永070融底.bds_py_26_light_thumb.png",
-      "full": "永070融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永057",
-      "file": "永057融底.bds",
-      "thumb": "永057融底.bds_py_26_light_thumb.png",
-      "full": "永057融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の吹个空条吗",
-      "file": "永035彩底.bds",
-      "thumb": "永035彩底.bds_py_26_light_thumb.png",
-      "full": "永035彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の虹膜兔洞",
-      "file": "虹膜兔洞彩底.bds",
-      "thumb": "虹膜兔洞彩底.bds_py_26_light_thumb.png",
-      "full": "虹膜兔洞彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永003",
-      "file": "秋の永003融底.bds",
-      "thumb": "秋の永003融底.bds_py_26_light_thumb.png",
-      "full": "秋の永003融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の千骨绯梦",
-      "file": "千骨绯梦彩底.bds",
-      "thumb": "千骨绯梦彩底.bds_py_26_light_thumb.png",
-      "full": "千骨绯梦彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の家庭教师",
-      "file": "家庭教师融底.bds",
-      "thumb": "家庭教师融底.bds_py_26_light_thumb.png",
-      "full": "家庭教师融底.bds_py_26_light.png"
-    },
-    {
-      "name": "永044灰域梦境",
-      "file": "灰域梦境融底.bds",
-      "thumb": "灰域梦境融底.bds_py_26_light_thumb.png",
-      "full": "灰域梦境融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の心跳是延迟的遗言",
-      "file": "心跳是延迟的遗言融底.bds",
-      "thumb": "心跳是延迟的遗言融底.bds_py_26_light_thumb.png",
-      "full": "心跳是延迟的遗言融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の紫泪丝带结",
-      "file": "紫泪丝带结融底.bds",
-      "thumb": "紫泪丝带结融底.bds_py_26_light_thumb.png",
-      "full": "紫泪丝带结融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永041世界第一公主殿下",
-      "file": "永041.bds",
-      "thumb": "永041.bds_py_26_light_thumb.png",
-      "full": "永041.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の待机状态蓝",
-      "file": "待机状态蓝彩底.bds",
-      "thumb": "待机状态蓝彩底.bds_py_26_light_thumb.png",
-      "full": "待机状态蓝彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋のRimuru Tempest",
-      "file": "永037彩底.bds",
-      "thumb": "永037彩底.bds_py_26_light_thumb.png",
-      "full": "永037彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の维多利亚茶渍",
-      "file": "维多利亚茶渍融底.bds",
-      "thumb": "维多利亚茶渍融底.bds_py_26_light_thumb.png",
-      "full": "维多利亚茶渍融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永071",
-      "file": "永071彩底.bds",
-      "thumb": "永071彩底.bds_py_26_light_thumb.png",
-      "full": "永071彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の海鸥与star",
-      "file": "海鸥与star彩底.bds",
-      "thumb": "海鸥与star彩底.bds_py_26_light_thumb.png",
-      "full": "海鸥与star彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永039 排球少年",
-      "file": "永039.bds",
-      "thumb": "永039.bds_py_26_light_thumb.png",
-      "full": "永039.bds_py_26_light.png"
-    },
-    {
-      "name": "镜中融化糖霜",
-      "file": "镜中融化糖霜融底.bds",
-      "thumb": "镜中融化糖霜融底.bds_py_26_light_thumb.png",
-      "full": "镜中融化糖霜融底.bds_py_26_light.png"
-    },
-    {
-      "name": "永059",
-      "file": "永059.bds",
-      "thumb": "永059.bds_py_26_light_thumb.png",
-      "full": "永059.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の狂气心电图",
-      "file": "狂气心电图融底.bds",
-      "thumb": "狂气心电图融底.bds_py_26_light_thumb.png",
-      "full": "狂气心电图融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永001 彩底",
-      "file": "秋の永001融底.bds",
-      "thumb": "秋の永001融底.bds_py_26_light_thumb.png",
-      "full": "秋の永001融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永047",
-      "file": "永047彩底.bds",
-      "thumb": "永047彩底.bds_py_26_light_thumb.png",
-      "full": "永047彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の心跳是延迟的遗言",
-      "file": "心跳是延迟的遗言彩底.bds",
-      "thumb": "心跳是延迟的遗言彩底.bds_py_26_light_thumb.png",
-      "full": "心跳是延迟的遗言彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永004",
-      "file": "秋の永004彩底.bds",
-      "thumb": "秋の永004彩底.bds_py_26_light_thumb.png",
-      "full": "秋の永004彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の狂气心电图",
-      "file": "狂气心电图彩底.bds",
-      "thumb": "狂气心电图彩底.bds_py_26_light_thumb.png",
-      "full": "狂气心电图彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の少女幻想时刻",
-      "file": "少女幻想时刻融底小.bds",
-      "thumb": "少女幻想时刻融底小.bds_py_26_default_thumb.png",
-      "full": "少女幻想时刻融底小.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の灰色群缎",
-      "file": "灰色群缎彩底.bds",
-      "thumb": "灰色群缎彩底.bds_py_26_light_thumb.png",
-      "full": "灰色群缎彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の海鸥与star",
-      "file": "海鸥与star融底.bds",
-      "thumb": "海鸥与star融底.bds_py_26_light_thumb.png",
-      "full": "海鸥与star融底.bds_py_26_light.png"
-    },
-    {
-      "name": "♡：Missyo",
-      "file": "Missyo.bds",
-      "thumb": "Missyo.bds_py_26_light_thumb.png",
-      "full": "Missyo.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永062",
-      "file": "永062彩底.bds",
-      "thumb": "永062彩底.bds_py_26_light_thumb.png",
-      "full": "永062彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の逆十字双瞳",
-      "file": "逆十字双瞳彩底.bds",
-      "thumb": "逆十字双瞳彩底.bds_py_26_light_thumb.png",
-      "full": "逆十字双瞳彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の逆十字双瞳",
-      "file": "逆十字双瞳融底.bds",
-      "thumb": "逆十字双瞳融底.bds_py_26_light_thumb.png",
-      "full": "逆十字双瞳融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永001 彩底",
-      "file": "秋の永001彩底.bds",
-      "thumb": "秋の永001彩底.bds_py_26_light_thumb.png",
-      "full": "秋の永001彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永045",
-      "file": "永045融底.bds",
-      "thumb": "永045融底.bds_py_26_light_thumb.png",
-      "full": "永045融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永063",
-      "file": "永063融底.bds",
-      "thumb": "永063融底.bds_py_26_light_thumb.png",
-      "full": "永063融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の薄荷奶霜云",
-      "file": "薄荷奶霜云彩底.bds",
-      "thumb": "薄荷奶霜云彩底.bds_py_26_light_thumb.png",
-      "full": "薄荷奶霜云彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の抖s玻璃剑批发",
-      "file": "抖s玻璃剑批发彩底.bds",
-      "thumb": "抖s玻璃剑批发彩底.bds_py_26_default_thumb.png",
-      "full": "抖s玻璃剑批发彩底.bds_py_26_default.png"
-    },
-    {
-      "name": "秋の✟ 悲鸣共鸣 ✟ （深色）彩底",
-      "file": "秋の悲鸣共鸣深色彩底.bds",
-      "thumb": "秋の悲鸣共鸣深色彩底.bds_py_26_light_thumb.png",
-      "full": "秋の悲鸣共鸣深色彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の薄荷奶霜云",
-      "file": "薄荷奶霜云融底.bds",
-      "thumb": "薄荷奶霜云融底.bds_py_26_light_thumb.png",
-      "full": "薄荷奶霜云融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の拜托一直看着我吧",
-      "file": "拜托一直看着我吧融底.bds",
-      "thumb": "拜托一直看着我吧融底.bds_py_26_light_thumb.png",
-      "full": "拜托一直看着我吧融底.bds_py_26_light.png"
-    },
-    {
-      "name": "永051",
-      "file": "永051彩底.bds",
-      "thumb": "永051彩底.bds_py_26_light_thumb.png",
-      "full": "永051彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の永045",
-      "file": "永045彩底.bds",
-      "thumb": "永045彩底.bds_py_26_light_thumb.png",
-      "full": "永045彩底.bds_py_26_light.png"
     }
   ]
 }
