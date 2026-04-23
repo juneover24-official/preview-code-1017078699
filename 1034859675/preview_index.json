@@ -1,380 +1,8 @@
 {
   "qq_number": "1017078699",
   "group_number": "1034859675",
-  "updated_at": "2026-04-23T15:38:34.777821",
+  "updated_at": "2026-04-23T15:42:47.490181",
   "skins": [
-    {
-      "name": "菓子熊猫大作战闷闷音",
-      "file": "菓子熊猫大作战闷闷.bdi",
-      "thumb": "菓子熊猫大作战闷闷.bdi_py_26_light_thumb.png",
-      "full": "菓子熊猫大作战闷闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の蓝汀云影",
-      "file": "秋の蓝汀云影融底.bdi",
-      "thumb": "秋の蓝汀云影融底.bdi_py_26_light_thumb.png",
-      "full": "秋の蓝汀云影融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の绿影旧信（脆）",
-      "file": "绿影旧信脆.bdi",
-      "thumb": "绿影旧信脆.bdi_py_26_default_thumb.png",
-      "full": "绿影旧信脆.bdi_py_26_default.png"
-    },
-    {
-      "name": "通往梦境的蝶窗",
-      "file": "通往梦境的蝶窗.bdi",
-      "thumb": "通往梦境的蝶窗.bdi_py_26_light_thumb.png",
-      "full": "通往梦境的蝶窗.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の病理スカート 彩底",
-      "file": "秋の病理スカート彩底.bdi",
-      "thumb": "秋の病理スカート彩底.bdi_py_26_default_thumb.png",
-      "full": "秋の病理スカート彩底.bdi_py_26_default.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "为神所厌的吻.bdi",
-      "thumb": "为神所厌的吻.bdi_py_26_light_thumb.png",
-      "full": "为神所厌的吻.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の柳下笺 彩底",
-      "file": "秋の柳下笺彩底.bdi",
-      "thumb": "秋の柳下笺彩底.bdi_py_26_default_thumb.png",
-      "full": "秋の柳下笺彩底.bdi_py_26_default.png"
-    },
-    {
-      "name": "秋の夢の蝶 彩底",
-      "file": "秋の夢の蝶彩底.bdi",
-      "thumb": "秋の夢の蝶彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の夢の蝶彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の赛博桃乐丝",
-      "file": "赛博桃乐丝.bdi",
-      "thumb": "赛博桃乐丝.bdi_py_26_light_thumb.png",
-      "full": "赛博桃乐丝.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の奶黄糯米团",
-      "file": "奶黄糯米团.bdi",
-      "thumb": "奶黄糯米团.bdi_py_26_light_thumb.png",
-      "full": "奶黄糯米团.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の奶油泡泡屋",
-      "file": "奶油泡泡屋.bdi",
-      "thumb": "奶油泡泡屋.bdi_py_26_light_thumb.png",
-      "full": "奶油泡泡屋.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の食欲大爆炸盲打版",
-      "file": "食欲大爆炸盲打版.bdi",
-      "thumb": "食欲大爆炸盲打版.bdi_py_26_light_thumb.png",
-      "full": "食欲大爆炸盲打版.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の粉屿微光",
-      "file": "秋の粉屿微光彩底.bdi",
-      "thumb": "秋の粉屿微光彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の粉屿微光彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の撕毁誓言之夜",
-      "file": "撕毁誓言之夜.bdi",
-      "thumb": "撕毁誓言之夜.bdi_py_26_light_thumb.png",
-      "full": "撕毁誓言之夜.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の黑弥撒的齿痕",
-      "file": "秋の黑弥撒的齿痕彩底.bdi",
-      "thumb": "秋の黑弥撒的齿痕彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の黑弥撒的齿痕彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の黯蝶骸音",
-      "file": "黯蝶骸音.bdi",
-      "thumb": "黯蝶骸音.bdi_py_26_light_thumb.png",
-      "full": "黯蝶骸音.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の莓莓甜心",
-      "file": "莓莓甜心粉.bdi",
-      "thumb": "莓莓甜心粉.bdi_py_26_light_thumb.png",
-      "full": "莓莓甜心粉.bdi_py_26_light.png"
-    },
-    {
-      "name": "梦蚀黑（闷）",
-      "file": "梦蚀黑闷.bdi",
-      "thumb": "梦蚀黑闷.bdi_py_26_light_thumb.png",
-      "full": "梦蚀黑闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の红笺浮灯（脆）",
-      "file": "红笺浮灯脆.bdi",
-      "thumb": "红笺浮灯脆.bdi_py_26_light_thumb.png",
-      "full": "红笺浮灯脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の红笺浮灯（闷）",
-      "file": "红笺浮灯闷.bdi",
-      "thumb": "红笺浮灯闷.bdi_py_26_light_thumb.png",
-      "full": "红笺浮灯闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓牛奶心事闷闷",
-      "file": "草莓牛奶心事闷闷.bdi",
-      "thumb": "草莓牛奶心事闷闷.bdi_py_26_light_thumb.png",
-      "full": "草莓牛奶心事闷闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の青律闷音",
-      "file": "青律闷闷.bdi",
-      "thumb": "青律闷闷.bdi_py_26_light_thumb.png",
-      "full": "青律闷闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の旧褶缎",
-      "file": "秋の旧褶缎彩底.bdi",
-      "thumb": "秋の旧褶缎彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の旧褶缎彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "The Black Album",
-      "file": "TheBlackAlbum.bdi",
-      "thumb": "TheBlackAlbum.bdi_py_26_light_thumb.png",
-      "full": "TheBlackAlbum.bdi_py_26_light.png"
-    },
-    {
-      "name": "狛恋99",
-      "file": "狛恋9.bdi",
-      "thumb": "狛恋9.bdi_py_26_light_thumb.png",
-      "full": "狛恋9.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の柳下笺 彩底",
-      "file": "秋の柳下笺融底.bdi",
-      "thumb": "秋の柳下笺融底.bdi_py_26_default_thumb.png",
-      "full": "秋の柳下笺融底.bdi_py_26_default.png"
-    },
-    {
-      "name": "萌系摇滚团",
-      "file": "萌系摇滚团.bdi",
-      "thumb": "萌系摇滚团.bdi_py_26_light_thumb.png",
-      "full": "萌系摇滚团.bdi_py_26_light.png"
-    },
-    {
-      "name": "草莓牛奶心事脆脆",
-      "file": "草莓牛奶心事脆脆.bdi",
-      "thumb": "草莓牛奶心事脆脆.bdi_py_26_light_thumb.png",
-      "full": "草莓牛奶心事脆脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の油墨与大理石的午后",
-      "file": "油墨与大理石的午后.bdi",
-      "thumb": "油墨与大理石的午后.bdi_py_26_light_thumb.png",
-      "full": "油墨与大理石的午后.bdi_py_26_light.png"
-    },
-    {
-      "name": "梦蚀黑（脆）",
-      "file": "梦蚀黑脆.bdi",
-      "thumb": "梦蚀黑脆.bdi_py_26_light_thumb.png",
-      "full": "梦蚀黑脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の如果命苦是天赋",
-      "file": "如果命苦是天赋.bdi",
-      "thumb": "如果命苦是天赋.bdi_py_26_light_thumb.png",
-      "full": "如果命苦是天赋.bdi_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "绒雪甜织.bdi",
-      "thumb": "绒雪甜织.bdi_py_26_light_thumb.png",
-      "full": "绒雪甜织.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の病理スカート 融底",
-      "file": "秋の病理スカート融底.bdi",
-      "thumb": "秋の病理スカート融底.bdi_py_26_default_thumb.png",
-      "full": "秋の病理スカート融底.bdi_py_26_default.png"
-    },
-    {
-      "name": "秋の黑弥撒的齿痕",
-      "file": "秋の黑弥撒的齿痕融底.bdi",
-      "thumb": "秋の黑弥撒的齿痕融底.bdi_py_26_light_thumb.png",
-      "full": "秋の黑弥撒的齿痕融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "Amnestyka Noir",
-      "file": "AmnestykaNoir.bdi",
-      "thumb": "AmnestykaNoir.bdi_py_26_light_thumb.png",
-      "full": "AmnestykaNoir.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の布丁布丁萌",
-      "file": "布丁布丁萌.bdi",
-      "thumb": "布丁布丁萌.bdi_py_26_light_thumb.png",
-      "full": "布丁布丁萌.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の密影破凶",
-      "file": "密影破凶.bdi",
-      "thumb": "密影破凶.bdi_py_26_light_thumb.png",
-      "full": "密影破凶.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の水色大耳绒",
-      "file": "水色大耳绒.bdi",
-      "thumb": "水色大耳绒.bdi_py_26_light_thumb.png",
-      "full": "水色大耳绒.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の夏日祭那晚的烟花 彩底",
-      "file": "秋の夏日祭那晚的烟花彩底.bdi",
-      "thumb": "秋の夏日祭那晚的烟花彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の夏日祭那晚的烟花彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "粉兔软糖（脆）",
-      "file": "粉兔软糖脆脆.bdi",
-      "thumb": "粉兔软糖脆脆.bdi_py_26_light_thumb.png",
-      "full": "粉兔软糖脆脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "礼物系少女签收中.bdi",
-      "thumb": "礼物系少女签收中.bdi_py_26_light_thumb.png",
-      "full": "礼物系少女签收中.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の食欲大爆炸字母版",
-      "file": "食欲大爆炸字母版.bdi",
-      "thumb": "食欲大爆炸字母版.bdi_py_26_light_thumb.png",
-      "full": "食欲大爆炸字母版.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の黑猫警长",
-      "file": "秋の黑猫警长.bdi",
-      "thumb": "秋の黑猫警长.bdi_py_26_light_thumb.png",
-      "full": "秋の黑猫警长.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の晴天记忆 融底",
-      "file": "秋の晴天记忆融底.bdi",
-      "thumb": "秋の晴天记忆融底.bdi_py_26_default_thumb.png",
-      "full": "秋の晴天记忆融底.bdi_py_26_default.png"
-    },
-    {
-      "name": "明日入梦来",
-      "file": "明日入梦来.bdi",
-      "thumb": "明日入梦来.bdi_py_26_light_thumb.png",
-      "full": "明日入梦来.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の绿影旧信（闷）",
-      "file": "绿影旧信闷.bdi",
-      "thumb": "绿影旧信闷.bdi_py_26_default_thumb.png",
-      "full": "绿影旧信闷.bdi_py_26_default.png"
-    },
-    {
-      "name": "秋の夏日祭那晚的烟花 彩底",
-      "file": "秋の夏日祭那晚的烟花融底.bdi",
-      "thumb": "秋の夏日祭那晚的烟花融底.bdi_py_26_light_thumb.png",
-      "full": "秋の夏日祭那晚的烟花融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の云枝漫行",
-      "file": "云枝漫行.bdi",
-      "thumb": "云枝漫行.bdi_py_26_light_thumb.png",
-      "full": "云枝漫行.bdi_py_26_light.png"
-    },
-    {
-      "name": "毛绒绒心动症候群",
-      "file": "毛绒绒心动症候群.bdi",
-      "thumb": "毛绒绒心动症候群.bdi_py_26_light_thumb.png",
-      "full": "毛绒绒心动症候群.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の莓莓茶会",
-      "file": "莓莓茶会红.bdi",
-      "thumb": "莓莓茶会红.bdi_py_26_light_thumb.png",
-      "full": "莓莓茶会红.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の晴天记忆 彩底",
-      "file": "秋の晴天记忆彩底.bdi",
-      "thumb": "秋の晴天记忆彩底.bdi_py_26_default_thumb.png",
-      "full": "秋の晴天记忆彩底.bdi_py_26_default.png"
-    },
-    {
-      "name": "Fragments of a Dream",
-      "file": "FragmentsofaDream.bdi",
-      "thumb": "FragmentsofaDream.bdi_py_26_light_thumb.png",
-      "full": "FragmentsofaDream.bdi_py_26_light.png"
-    },
-    {
-      "name": "粉兔软糖（闷）",
-      "file": "粉兔软糖闷闷.bdi",
-      "thumb": "粉兔软糖闷闷.bdi_py_26_light_thumb.png",
-      "full": "粉兔软糖闷闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の夢の蝶 融底",
-      "file": "秋の夢の蝶融底.bdi",
-      "thumb": "秋の夢の蝶融底.bdi_py_26_light_thumb.png",
-      "full": "秋の夢の蝶融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の蓝汀云影",
-      "file": "秋の蓝汀云影彩底.bdi",
-      "thumb": "秋の蓝汀云影彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の蓝汀云影彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "早安！我的甜份满分",
-      "file": "早安我的甜份满分.bdi",
-      "thumb": "早安我的甜份满分.bdi_py_26_light_thumb.png",
-      "full": "早安我的甜份满分.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の粉屿微光",
-      "file": "秋の粉屿微光融底.bdi",
-      "thumb": "秋の粉屿微光融底.bdi_py_26_light_thumb.png",
-      "full": "秋の粉屿微光融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の青律脆音",
-      "file": "青律脆脆.bdi",
-      "thumb": "青律脆脆.bdi_py_26_light_thumb.png",
-      "full": "青律脆脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "萌萌美乐蒂",
-      "file": "萌萌美乐蒂.bdi",
-      "thumb": "萌萌美乐蒂.bdi_py_26_light_thumb.png",
-      "full": "萌萌美乐蒂.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の旧褶缎",
-      "file": "秋の旧褶缎融底.bdi",
-      "thumb": "秋の旧褶缎融底.bdi_py_26_light_thumb.png",
-      "full": "秋の旧褶缎融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "菓子熊猫大作战脆脆音",
-      "file": "菓子熊猫大作战脆脆.bdi",
-      "thumb": "菓子熊猫大作战脆脆.bdi_py_26_light_thumb.png",
-      "full": "菓子熊猫大作战脆脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の樱花莓莓甜点铺",
-      "file": "樱花莓莓甜点铺.bdi",
-      "thumb": "樱花莓莓甜点铺.bdi_py_26_light_thumb.png",
-      "full": "樱花莓莓甜点铺.bdi_py_26_light.png"
-    },
     {
       "name": "菓子熊猫大作战闷闷音",
       "file": "菓子熊猫大作战闷闷.bds",
@@ -746,6 +374,378 @@
       "file": "秋の柳下笺彩底.bds",
       "thumb": "秋の柳下笺彩底.bds_py_26_default_thumb.png",
       "full": "秋の柳下笺彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "菓子熊猫大作战闷闷音",
+      "file": "菓子熊猫大作战闷闷.bdi",
+      "thumb": "菓子熊猫大作战闷闷.bdi_py_26_light_thumb.png",
+      "full": "菓子熊猫大作战闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の蓝汀云影",
+      "file": "秋の蓝汀云影融底.bdi",
+      "thumb": "秋の蓝汀云影融底.bdi_py_26_light_thumb.png",
+      "full": "秋の蓝汀云影融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の绿影旧信（脆）",
+      "file": "绿影旧信脆.bdi",
+      "thumb": "绿影旧信脆.bdi_py_26_default_thumb.png",
+      "full": "绿影旧信脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "通往梦境的蝶窗",
+      "file": "通往梦境的蝶窗.bdi",
+      "thumb": "通往梦境的蝶窗.bdi_py_26_light_thumb.png",
+      "full": "通往梦境的蝶窗.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の病理スカート 彩底",
+      "file": "秋の病理スカート彩底.bdi",
+      "thumb": "秋の病理スカート彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の病理スカート彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "为神所厌的吻.bdi",
+      "thumb": "为神所厌的吻.bdi_py_26_light_thumb.png",
+      "full": "为神所厌的吻.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の柳下笺 彩底",
+      "file": "秋の柳下笺彩底.bdi",
+      "thumb": "秋の柳下笺彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の柳下笺彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の夢の蝶 彩底",
+      "file": "秋の夢の蝶彩底.bdi",
+      "thumb": "秋の夢の蝶彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の夢の蝶彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の赛博桃乐丝",
+      "file": "赛博桃乐丝.bdi",
+      "thumb": "赛博桃乐丝.bdi_py_26_light_thumb.png",
+      "full": "赛博桃乐丝.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の奶黄糯米团",
+      "file": "奶黄糯米团.bdi",
+      "thumb": "奶黄糯米团.bdi_py_26_light_thumb.png",
+      "full": "奶黄糯米团.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の奶油泡泡屋",
+      "file": "奶油泡泡屋.bdi",
+      "thumb": "奶油泡泡屋.bdi_py_26_light_thumb.png",
+      "full": "奶油泡泡屋.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の食欲大爆炸盲打版",
+      "file": "食欲大爆炸盲打版.bdi",
+      "thumb": "食欲大爆炸盲打版.bdi_py_26_light_thumb.png",
+      "full": "食欲大爆炸盲打版.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の粉屿微光",
+      "file": "秋の粉屿微光彩底.bdi",
+      "thumb": "秋の粉屿微光彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の粉屿微光彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の撕毁誓言之夜",
+      "file": "撕毁誓言之夜.bdi",
+      "thumb": "撕毁誓言之夜.bdi_py_26_light_thumb.png",
+      "full": "撕毁誓言之夜.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の黑弥撒的齿痕",
+      "file": "秋の黑弥撒的齿痕彩底.bdi",
+      "thumb": "秋の黑弥撒的齿痕彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の黑弥撒的齿痕彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の黯蝶骸音",
+      "file": "黯蝶骸音.bdi",
+      "thumb": "黯蝶骸音.bdi_py_26_light_thumb.png",
+      "full": "黯蝶骸音.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の莓莓甜心",
+      "file": "莓莓甜心粉.bdi",
+      "thumb": "莓莓甜心粉.bdi_py_26_light_thumb.png",
+      "full": "莓莓甜心粉.bdi_py_26_light.png"
+    },
+    {
+      "name": "梦蚀黑（闷）",
+      "file": "梦蚀黑闷.bdi",
+      "thumb": "梦蚀黑闷.bdi_py_26_light_thumb.png",
+      "full": "梦蚀黑闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の红笺浮灯（脆）",
+      "file": "红笺浮灯脆.bdi",
+      "thumb": "红笺浮灯脆.bdi_py_26_light_thumb.png",
+      "full": "红笺浮灯脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の红笺浮灯（闷）",
+      "file": "红笺浮灯闷.bdi",
+      "thumb": "红笺浮灯闷.bdi_py_26_light_thumb.png",
+      "full": "红笺浮灯闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓牛奶心事闷闷",
+      "file": "草莓牛奶心事闷闷.bdi",
+      "thumb": "草莓牛奶心事闷闷.bdi_py_26_light_thumb.png",
+      "full": "草莓牛奶心事闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の青律闷音",
+      "file": "青律闷闷.bdi",
+      "thumb": "青律闷闷.bdi_py_26_light_thumb.png",
+      "full": "青律闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の旧褶缎",
+      "file": "秋の旧褶缎彩底.bdi",
+      "thumb": "秋の旧褶缎彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の旧褶缎彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "The Black Album",
+      "file": "TheBlackAlbum.bdi",
+      "thumb": "TheBlackAlbum.bdi_py_26_light_thumb.png",
+      "full": "TheBlackAlbum.bdi_py_26_light.png"
+    },
+    {
+      "name": "狛恋99",
+      "file": "狛恋9.bdi",
+      "thumb": "狛恋9.bdi_py_26_light_thumb.png",
+      "full": "狛恋9.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の柳下笺 彩底",
+      "file": "秋の柳下笺融底.bdi",
+      "thumb": "秋の柳下笺融底.bdi_py_26_default_thumb.png",
+      "full": "秋の柳下笺融底.bdi_py_26_default.png"
+    },
+    {
+      "name": "萌系摇滚团",
+      "file": "萌系摇滚团.bdi",
+      "thumb": "萌系摇滚团.bdi_py_26_light_thumb.png",
+      "full": "萌系摇滚团.bdi_py_26_light.png"
+    },
+    {
+      "name": "草莓牛奶心事脆脆",
+      "file": "草莓牛奶心事脆脆.bdi",
+      "thumb": "草莓牛奶心事脆脆.bdi_py_26_light_thumb.png",
+      "full": "草莓牛奶心事脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の油墨与大理石的午后",
+      "file": "油墨与大理石的午后.bdi",
+      "thumb": "油墨与大理石的午后.bdi_py_26_light_thumb.png",
+      "full": "油墨与大理石的午后.bdi_py_26_light.png"
+    },
+    {
+      "name": "梦蚀黑（脆）",
+      "file": "梦蚀黑脆.bdi",
+      "thumb": "梦蚀黑脆.bdi_py_26_light_thumb.png",
+      "full": "梦蚀黑脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の如果命苦是天赋",
+      "file": "如果命苦是天赋.bdi",
+      "thumb": "如果命苦是天赋.bdi_py_26_light_thumb.png",
+      "full": "如果命苦是天赋.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "绒雪甜织.bdi",
+      "thumb": "绒雪甜织.bdi_py_26_light_thumb.png",
+      "full": "绒雪甜织.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の病理スカート 融底",
+      "file": "秋の病理スカート融底.bdi",
+      "thumb": "秋の病理スカート融底.bdi_py_26_default_thumb.png",
+      "full": "秋の病理スカート融底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の黑弥撒的齿痕",
+      "file": "秋の黑弥撒的齿痕融底.bdi",
+      "thumb": "秋の黑弥撒的齿痕融底.bdi_py_26_light_thumb.png",
+      "full": "秋の黑弥撒的齿痕融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "Amnestyka Noir",
+      "file": "AmnestykaNoir.bdi",
+      "thumb": "AmnestykaNoir.bdi_py_26_light_thumb.png",
+      "full": "AmnestykaNoir.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の布丁布丁萌",
+      "file": "布丁布丁萌.bdi",
+      "thumb": "布丁布丁萌.bdi_py_26_light_thumb.png",
+      "full": "布丁布丁萌.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の密影破凶",
+      "file": "密影破凶.bdi",
+      "thumb": "密影破凶.bdi_py_26_light_thumb.png",
+      "full": "密影破凶.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の水色大耳绒",
+      "file": "水色大耳绒.bdi",
+      "thumb": "水色大耳绒.bdi_py_26_light_thumb.png",
+      "full": "水色大耳绒.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の夏日祭那晚的烟花 彩底",
+      "file": "秋の夏日祭那晚的烟花彩底.bdi",
+      "thumb": "秋の夏日祭那晚的烟花彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の夏日祭那晚的烟花彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "粉兔软糖（脆）",
+      "file": "粉兔软糖脆脆.bdi",
+      "thumb": "粉兔软糖脆脆.bdi_py_26_light_thumb.png",
+      "full": "粉兔软糖脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "礼物系少女签收中.bdi",
+      "thumb": "礼物系少女签收中.bdi_py_26_light_thumb.png",
+      "full": "礼物系少女签收中.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の食欲大爆炸字母版",
+      "file": "食欲大爆炸字母版.bdi",
+      "thumb": "食欲大爆炸字母版.bdi_py_26_light_thumb.png",
+      "full": "食欲大爆炸字母版.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の黑猫警长",
+      "file": "秋の黑猫警长.bdi",
+      "thumb": "秋の黑猫警长.bdi_py_26_light_thumb.png",
+      "full": "秋の黑猫警长.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の晴天记忆 融底",
+      "file": "秋の晴天记忆融底.bdi",
+      "thumb": "秋の晴天记忆融底.bdi_py_26_default_thumb.png",
+      "full": "秋の晴天记忆融底.bdi_py_26_default.png"
+    },
+    {
+      "name": "明日入梦来",
+      "file": "明日入梦来.bdi",
+      "thumb": "明日入梦来.bdi_py_26_light_thumb.png",
+      "full": "明日入梦来.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の绿影旧信（闷）",
+      "file": "绿影旧信闷.bdi",
+      "thumb": "绿影旧信闷.bdi_py_26_default_thumb.png",
+      "full": "绿影旧信闷.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の夏日祭那晚的烟花 彩底",
+      "file": "秋の夏日祭那晚的烟花融底.bdi",
+      "thumb": "秋の夏日祭那晚的烟花融底.bdi_py_26_light_thumb.png",
+      "full": "秋の夏日祭那晚的烟花融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の云枝漫行",
+      "file": "云枝漫行.bdi",
+      "thumb": "云枝漫行.bdi_py_26_light_thumb.png",
+      "full": "云枝漫行.bdi_py_26_light.png"
+    },
+    {
+      "name": "毛绒绒心动症候群",
+      "file": "毛绒绒心动症候群.bdi",
+      "thumb": "毛绒绒心动症候群.bdi_py_26_light_thumb.png",
+      "full": "毛绒绒心动症候群.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の莓莓茶会",
+      "file": "莓莓茶会红.bdi",
+      "thumb": "莓莓茶会红.bdi_py_26_light_thumb.png",
+      "full": "莓莓茶会红.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の晴天记忆 彩底",
+      "file": "秋の晴天记忆彩底.bdi",
+      "thumb": "秋の晴天记忆彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の晴天记忆彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "Fragments of a Dream",
+      "file": "FragmentsofaDream.bdi",
+      "thumb": "FragmentsofaDream.bdi_py_26_light_thumb.png",
+      "full": "FragmentsofaDream.bdi_py_26_light.png"
+    },
+    {
+      "name": "粉兔软糖（闷）",
+      "file": "粉兔软糖闷闷.bdi",
+      "thumb": "粉兔软糖闷闷.bdi_py_26_light_thumb.png",
+      "full": "粉兔软糖闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の夢の蝶 融底",
+      "file": "秋の夢の蝶融底.bdi",
+      "thumb": "秋の夢の蝶融底.bdi_py_26_light_thumb.png",
+      "full": "秋の夢の蝶融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の蓝汀云影",
+      "file": "秋の蓝汀云影彩底.bdi",
+      "thumb": "秋の蓝汀云影彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の蓝汀云影彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "早安！我的甜份满分",
+      "file": "早安我的甜份满分.bdi",
+      "thumb": "早安我的甜份满分.bdi_py_26_light_thumb.png",
+      "full": "早安我的甜份满分.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の粉屿微光",
+      "file": "秋の粉屿微光融底.bdi",
+      "thumb": "秋の粉屿微光融底.bdi_py_26_light_thumb.png",
+      "full": "秋の粉屿微光融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の青律脆音",
+      "file": "青律脆脆.bdi",
+      "thumb": "青律脆脆.bdi_py_26_light_thumb.png",
+      "full": "青律脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "萌萌美乐蒂",
+      "file": "萌萌美乐蒂.bdi",
+      "thumb": "萌萌美乐蒂.bdi_py_26_light_thumb.png",
+      "full": "萌萌美乐蒂.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の旧褶缎",
+      "file": "秋の旧褶缎融底.bdi",
+      "thumb": "秋の旧褶缎融底.bdi_py_26_light_thumb.png",
+      "full": "秋の旧褶缎融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "菓子熊猫大作战脆脆音",
+      "file": "菓子熊猫大作战脆脆.bdi",
+      "thumb": "菓子熊猫大作战脆脆.bdi_py_26_light_thumb.png",
+      "full": "菓子熊猫大作战脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の樱花莓莓甜点铺",
+      "file": "樱花莓莓甜点铺.bdi",
+      "thumb": "樱花莓莓甜点铺.bdi_py_26_light_thumb.png",
+      "full": "樱花莓莓甜点铺.bdi_py_26_light.png"
     }
   ]
 }

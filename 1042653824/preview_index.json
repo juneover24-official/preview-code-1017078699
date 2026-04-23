@@ -1,92 +1,8 @@
 {
   "qq_number": "1017078699",
   "group_number": "1042653824",
-  "updated_at": "2026-04-23T15:38:34.172142",
+  "updated_at": "2026-04-23T15:42:47.168751",
   "skins": [
-    {
-      "name": "秋の没错就是这么萌 彩底",
-      "file": "秋の没错就是这么萌融底.bdi",
-      "thumb": "秋の没错就是这么萌融底.bdi_py_26_default_thumb.png",
-      "full": "秋の没错就是这么萌融底.bdi_py_26_default.png"
-    },
-    {
-      "name": "秋の萌妹百分百 彩底",
-      "file": "秋の萌妹百分百彩底.bdi",
-      "thumb": "秋の萌妹百分百彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の萌妹百分百彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の为何想要逃离 彩底",
-      "file": "秋の为何想要逃离彩底.bdi",
-      "thumb": "秋の为何想要逃离彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の为何想要逃离彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の没错就是这么萌 彩底",
-      "file": "秋の没错就是这么萌彩底.bdi",
-      "thumb": "秋の没错就是这么萌彩底.bdi_py_26_default_thumb.png",
-      "full": "秋の没错就是这么萌彩底.bdi_py_26_default.png"
-    },
-    {
-      "name": "秋の魔法少女派对 彩底",
-      "file": "秋の魔法少女派对彩底.bdi",
-      "thumb": "秋の魔法少女派对彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の魔法少女派对彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の浅藏温柔梦 融底",
-      "file": "秋の浅藏温柔梦融底.bdi",
-      "thumb": "秋の浅藏温柔梦融底.bdi_py_26_light_thumb.png",
-      "full": "秋の浅藏温柔梦融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の为何想要逃离 融底",
-      "file": "秋の为何想要逃离融底.bdi",
-      "thumb": "秋の为何想要逃离融底.bdi_py_26_light_thumb.png",
-      "full": "秋の为何想要逃离融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の浅藏温柔梦 彩底",
-      "file": "秋の浅藏温柔梦彩底.bdi",
-      "thumb": "秋の浅藏温柔梦彩底.bdi_py_26_light_thumb.png",
-      "full": "秋の浅藏温柔梦彩底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の魔法少女派对 融底",
-      "file": "秋の魔法少女派对融底.bdi",
-      "thumb": "秋の魔法少女派对融底.bdi_py_26_light_thumb.png",
-      "full": "秋の魔法少女派对融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "幸运幸运降临在我手心 融底",
-      "file": "秋の幸运幸运降临在我手心融底.bdi",
-      "thumb": "秋の幸运幸运降临在我手心融底.bdi_py_26_default_thumb.png",
-      "full": "秋の幸运幸运降临在我手心融底.bdi_py_26_default.png"
-    },
-    {
-      "name": "幸运幸运降临在我手心 彩底",
-      "file": "秋の幸运幸运降临在我手心彩底.bdi",
-      "thumb": "秋の幸运幸运降临在我手心彩底.bdi_py_26_default_thumb.png",
-      "full": "秋の幸运幸运降临在我手心彩底.bdi_py_26_default.png"
-    },
-    {
-      "name": "秋の萌妹百分百 融底",
-      "file": "秋の萌妹百分百融底.bdi",
-      "thumb": "秋の萌妹百分百融底.bdi_py_26_light_thumb.png",
-      "full": "秋の萌妹百分百融底.bdi_py_26_light.png"
-    },
-    {
-      "name": "秋の惡靈玫瑰吟 彩底",
-      "file": "秋の惡靈玫瑰吟彩底.bdi",
-      "thumb": "秋の惡靈玫瑰吟彩底.bdi_py_26_default_thumb.png",
-      "full": "秋の惡靈玫瑰吟彩底.bdi_py_26_default.png"
-    },
-    {
-      "name": "秋の惡靈玫瑰吟 融底",
-      "file": "秋の惡靈玫瑰吟融底.bdi",
-      "thumb": "秋の惡靈玫瑰吟融底.bdi_py_26_default_thumb.png",
-      "full": "秋の惡靈玫瑰吟融底.bdi_py_26_default.png"
-    },
     {
       "name": "秋の萌妹百分百 融底",
       "file": "秋の萌妹百分百融底.bds",
@@ -170,6 +86,90 @@
       "file": "秋の惡靈玫瑰吟融底.bds",
       "thumb": "秋の惡靈玫瑰吟融底.bds_py_26_default_thumb.png",
       "full": "秋の惡靈玫瑰吟融底.bds_py_26_default.png"
+    },
+    {
+      "name": "秋の没错就是这么萌 彩底",
+      "file": "秋の没错就是这么萌融底.bdi",
+      "thumb": "秋の没错就是这么萌融底.bdi_py_26_default_thumb.png",
+      "full": "秋の没错就是这么萌融底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の萌妹百分百 彩底",
+      "file": "秋の萌妹百分百彩底.bdi",
+      "thumb": "秋の萌妹百分百彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の萌妹百分百彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の为何想要逃离 彩底",
+      "file": "秋の为何想要逃离彩底.bdi",
+      "thumb": "秋の为何想要逃离彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の为何想要逃离彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の没错就是这么萌 彩底",
+      "file": "秋の没错就是这么萌彩底.bdi",
+      "thumb": "秋の没错就是这么萌彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の没错就是这么萌彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の魔法少女派对 彩底",
+      "file": "秋の魔法少女派对彩底.bdi",
+      "thumb": "秋の魔法少女派对彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の魔法少女派对彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の浅藏温柔梦 融底",
+      "file": "秋の浅藏温柔梦融底.bdi",
+      "thumb": "秋の浅藏温柔梦融底.bdi_py_26_light_thumb.png",
+      "full": "秋の浅藏温柔梦融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の为何想要逃离 融底",
+      "file": "秋の为何想要逃离融底.bdi",
+      "thumb": "秋の为何想要逃离融底.bdi_py_26_light_thumb.png",
+      "full": "秋の为何想要逃离融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の浅藏温柔梦 彩底",
+      "file": "秋の浅藏温柔梦彩底.bdi",
+      "thumb": "秋の浅藏温柔梦彩底.bdi_py_26_light_thumb.png",
+      "full": "秋の浅藏温柔梦彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の魔法少女派对 融底",
+      "file": "秋の魔法少女派对融底.bdi",
+      "thumb": "秋の魔法少女派对融底.bdi_py_26_light_thumb.png",
+      "full": "秋の魔法少女派对融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "幸运幸运降临在我手心 融底",
+      "file": "秋の幸运幸运降临在我手心融底.bdi",
+      "thumb": "秋の幸运幸运降临在我手心融底.bdi_py_26_default_thumb.png",
+      "full": "秋の幸运幸运降临在我手心融底.bdi_py_26_default.png"
+    },
+    {
+      "name": "幸运幸运降临在我手心 彩底",
+      "file": "秋の幸运幸运降临在我手心彩底.bdi",
+      "thumb": "秋の幸运幸运降临在我手心彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の幸运幸运降临在我手心彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の萌妹百分百 融底",
+      "file": "秋の萌妹百分百融底.bdi",
+      "thumb": "秋の萌妹百分百融底.bdi_py_26_light_thumb.png",
+      "full": "秋の萌妹百分百融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の惡靈玫瑰吟 彩底",
+      "file": "秋の惡靈玫瑰吟彩底.bdi",
+      "thumb": "秋の惡靈玫瑰吟彩底.bdi_py_26_default_thumb.png",
+      "full": "秋の惡靈玫瑰吟彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "秋の惡靈玫瑰吟 融底",
+      "file": "秋の惡靈玫瑰吟融底.bdi",
+      "thumb": "秋の惡靈玫瑰吟融底.bdi_py_26_default_thumb.png",
+      "full": "秋の惡靈玫瑰吟融底.bdi_py_26_default.png"
     }
   ]
 }
