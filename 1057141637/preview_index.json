@@ -1,80 +1,8 @@
 {
   "qq_number": "1017078699",
   "group_number": "1057141637",
-  "updated_at": "2026-04-23T15:34:13.579705",
+  "updated_at": "2026-04-23T15:36:31.916387",
   "skins": [
-    {
-      "name": "秋の不开心我就吃饭",
-      "file": "不开心我就吃饭融底.bds",
-      "thumb": "不开心我就吃饭融底.bds_py_26_light_thumb.png",
-      "full": "不开心我就吃饭融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の自动铅笔宇宙",
-      "file": "自动铅笔宇宙彩底.bds",
-      "thumb": "自动铅笔宇宙彩底.bds_py_26_light_thumb.png",
-      "full": "自动铅笔宇宙彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の东京双星物语",
-      "file": "东京双星物语融底.bds",
-      "thumb": "东京双星物语融底.bds_py_26_light_thumb.png",
-      "full": "东京双星物语融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋のサブ妹宝",
-      "file": "サブ妹宝彩底.bds",
-      "thumb": "サブ妹宝彩底.bds_py_26_light_thumb.png",
-      "full": "サブ妹宝彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の自动铅笔宇宙",
-      "file": "自动铅笔宇宙融底.bds",
-      "thumb": "自动铅笔宇宙融底.bds_py_26_light_thumb.png",
-      "full": "自动铅笔宇宙融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の东京双星物语",
-      "file": "东京双星物语彩底.bds",
-      "thumb": "东京双星物语彩底.bds_py_26_light_thumb.png",
-      "full": "东京双星物语彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋のサブ妹宝",
-      "file": "サブ妹宝融底.bds",
-      "thumb": "サブ妹宝融底.bds_py_26_light_thumb.png",
-      "full": "サブ妹宝融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の卡布奇喵",
-      "file": "卡布奇喵彩底.bds",
-      "thumb": "卡布奇喵彩底.bds_py_26_light_thumb.png",
-      "full": "卡布奇喵彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の四叶草熊猫团子",
-      "file": "四叶草熊猫团子融底.bds",
-      "thumb": "四叶草熊猫团子融底.bds_py_26_light_thumb.png",
-      "full": "四叶草熊猫团子融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の卡布奇喵",
-      "file": "卡布奇喵融底.bds",
-      "thumb": "卡布奇喵融底.bds_py_26_light_thumb.png",
-      "full": "卡布奇喵融底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の四叶草熊猫团子",
-      "file": "四叶草熊猫团子彩底.bds",
-      "thumb": "四叶草熊猫团子彩底.bds_py_26_light_thumb.png",
-      "full": "四叶草熊猫团子彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "秋の不开心我就吃饭",
-      "file": "不开心我就吃饭彩底.bds",
-      "thumb": "不开心我就吃饭彩底.bds_py_26_light_thumb.png",
-      "full": "不开心我就吃饭彩底.bds_py_26_light.png"
-    },
     {
       "name": "秋の四叶草熊猫团子",
       "file": "四叶草熊猫团子彩底.bdi",
@@ -146,6 +74,78 @@
       "file": "自动铅笔宇宙融底.bdi",
       "thumb": "自动铅笔宇宙融底.bdi_py_26_light_thumb.png",
       "full": "自动铅笔宇宙融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "秋の不开心我就吃饭",
+      "file": "不开心我就吃饭融底.bds",
+      "thumb": "不开心我就吃饭融底.bds_py_26_light_thumb.png",
+      "full": "不开心我就吃饭融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の自动铅笔宇宙",
+      "file": "自动铅笔宇宙彩底.bds",
+      "thumb": "自动铅笔宇宙彩底.bds_py_26_light_thumb.png",
+      "full": "自动铅笔宇宙彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の东京双星物语",
+      "file": "东京双星物语融底.bds",
+      "thumb": "东京双星物语融底.bds_py_26_light_thumb.png",
+      "full": "东京双星物语融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋のサブ妹宝",
+      "file": "サブ妹宝彩底.bds",
+      "thumb": "サブ妹宝彩底.bds_py_26_light_thumb.png",
+      "full": "サブ妹宝彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の自动铅笔宇宙",
+      "file": "自动铅笔宇宙融底.bds",
+      "thumb": "自动铅笔宇宙融底.bds_py_26_light_thumb.png",
+      "full": "自动铅笔宇宙融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の东京双星物语",
+      "file": "东京双星物语彩底.bds",
+      "thumb": "东京双星物语彩底.bds_py_26_light_thumb.png",
+      "full": "东京双星物语彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋のサブ妹宝",
+      "file": "サブ妹宝融底.bds",
+      "thumb": "サブ妹宝融底.bds_py_26_light_thumb.png",
+      "full": "サブ妹宝融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の卡布奇喵",
+      "file": "卡布奇喵彩底.bds",
+      "thumb": "卡布奇喵彩底.bds_py_26_light_thumb.png",
+      "full": "卡布奇喵彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の四叶草熊猫团子",
+      "file": "四叶草熊猫团子融底.bds",
+      "thumb": "四叶草熊猫团子融底.bds_py_26_light_thumb.png",
+      "full": "四叶草熊猫团子融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の卡布奇喵",
+      "file": "卡布奇喵融底.bds",
+      "thumb": "卡布奇喵融底.bds_py_26_light_thumb.png",
+      "full": "卡布奇喵融底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の四叶草熊猫团子",
+      "file": "四叶草熊猫团子彩底.bds",
+      "thumb": "四叶草熊猫团子彩底.bds_py_26_light_thumb.png",
+      "full": "四叶草熊猫团子彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "秋の不开心我就吃饭",
+      "file": "不开心我就吃饭彩底.bds",
+      "thumb": "不开心我就吃饭彩底.bds_py_26_light_thumb.png",
+      "full": "不开心我就吃饭彩底.bds_py_26_light.png"
     }
   ]
 }
