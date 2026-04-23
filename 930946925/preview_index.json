@@ -1,74 +1,8 @@
 {
   "qq_number": "1017078699",
   "group_number": "930946925",
-  "updated_at": "2026-04-23T15:44:27.686248",
+  "updated_at": "2026-04-23T15:48:41.266164",
   "skins": [
-    {
-      "name": "鸟之诗音效二",
-      "file": "鸟之诗音效二.bds",
-      "thumb": "鸟之诗音效二.bds_py_26_light_thumb.png",
-      "full": "鸟之诗音效二.bds_py_26_light.png"
-    },
-    {
-      "name": "鸟之诗",
-      "file": "鸟之诗.bds",
-      "thumb": "鸟之诗.bds_py_26_light_thumb.png",
-      "full": "鸟之诗.bds_py_26_light.png"
-    },
-    {
-      "name": "阿宅恋爱心得",
-      "file": "阿宅恋爱心得.bds",
-      "thumb": "阿宅恋爱心得.bds_py_26_light_thumb.png",
-      "full": "阿宅恋爱心得.bds_py_26_light.png"
-    },
-    {
-      "name": "第101次心动",
-      "file": "第101次心动.bds",
-      "thumb": "第101次心动.bds_py_26_light_thumb.png",
-      "full": "第101次心动.bds_py_26_light.png"
-    },
-    {
-      "name": "阿宅恋爱心得",
-      "file": "阿宅恋爱心得音效二.bds",
-      "thumb": "阿宅恋爱心得音效二.bds_py_26_light_thumb.png",
-      "full": "阿宅恋爱心得音效二.bds_py_26_light.png"
-    },
-    {
-      "name": "为她降落的紫之眷恋",
-      "file": "为她降落的紫之眷恋.bds",
-      "thumb": "为她降落的紫之眷恋.bds_py_26_light_thumb.png",
-      "full": "为她降落的紫之眷恋.bds_py_26_light.png"
-    },
-    {
-      "name": "A.T. Field RED",
-      "file": "asuka.bds",
-      "thumb": "asuka.bds_py_26_light_thumb.png",
-      "full": "asuka.bds_py_26_light.png"
-    },
-    {
-      "name": "未曾送达的情书",
-      "file": "未曾送达的情书.bds",
-      "thumb": "未曾送达的情书.bds_py_26_light_thumb.png",
-      "full": "未曾送达的情书.bds_py_26_light.png"
-    },
-    {
-      "name": "今日也多谢款待",
-      "file": "今日也多谢款待.bds",
-      "thumb": "今日也多谢款待.bds_py_26_light_thumb.png",
-      "full": "今日也多谢款待.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "蕾丝边的休止符.bds",
-      "thumb": "蕾丝边的休止符.bds_py_26_light_thumb.png",
-      "full": "蕾丝边的休止符.bds_py_26_light.png"
-    },
-    {
-      "name": "♡：Missyo",
-      "file": "Missyo.bds",
-      "thumb": "Missyo.bds_py_26_light_thumb.png",
-      "full": "Missyo.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "Missyo.bdi",
@@ -134,6 +68,72 @@
       "file": "蕾丝边的休止符.bdi",
       "thumb": "蕾丝边的休止符.bdi_py_26_light_thumb.png",
       "full": "蕾丝边的休止符.bdi_py_26_light.png"
+    },
+    {
+      "name": "鸟之诗音效二",
+      "file": "鸟之诗音效二.bds",
+      "thumb": "鸟之诗音效二.bds_py_26_light_thumb.png",
+      "full": "鸟之诗音效二.bds_py_26_light.png"
+    },
+    {
+      "name": "鸟之诗",
+      "file": "鸟之诗.bds",
+      "thumb": "鸟之诗.bds_py_26_light_thumb.png",
+      "full": "鸟之诗.bds_py_26_light.png"
+    },
+    {
+      "name": "阿宅恋爱心得",
+      "file": "阿宅恋爱心得.bds",
+      "thumb": "阿宅恋爱心得.bds_py_26_light_thumb.png",
+      "full": "阿宅恋爱心得.bds_py_26_light.png"
+    },
+    {
+      "name": "第101次心动",
+      "file": "第101次心动.bds",
+      "thumb": "第101次心动.bds_py_26_light_thumb.png",
+      "full": "第101次心动.bds_py_26_light.png"
+    },
+    {
+      "name": "阿宅恋爱心得",
+      "file": "阿宅恋爱心得音效二.bds",
+      "thumb": "阿宅恋爱心得音效二.bds_py_26_light_thumb.png",
+      "full": "阿宅恋爱心得音效二.bds_py_26_light.png"
+    },
+    {
+      "name": "为她降落的紫之眷恋",
+      "file": "为她降落的紫之眷恋.bds",
+      "thumb": "为她降落的紫之眷恋.bds_py_26_light_thumb.png",
+      "full": "为她降落的紫之眷恋.bds_py_26_light.png"
+    },
+    {
+      "name": "A.T. Field RED",
+      "file": "asuka.bds",
+      "thumb": "asuka.bds_py_26_light_thumb.png",
+      "full": "asuka.bds_py_26_light.png"
+    },
+    {
+      "name": "未曾送达的情书",
+      "file": "未曾送达的情书.bds",
+      "thumb": "未曾送达的情书.bds_py_26_light_thumb.png",
+      "full": "未曾送达的情书.bds_py_26_light.png"
+    },
+    {
+      "name": "今日也多谢款待",
+      "file": "今日也多谢款待.bds",
+      "thumb": "今日也多谢款待.bds_py_26_light_thumb.png",
+      "full": "今日也多谢款待.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "蕾丝边的休止符.bds",
+      "thumb": "蕾丝边的休止符.bds_py_26_light_thumb.png",
+      "full": "蕾丝边的休止符.bds_py_26_light.png"
+    },
+    {
+      "name": "♡：Missyo",
+      "file": "Missyo.bds",
+      "thumb": "Missyo.bds_py_26_light_thumb.png",
+      "full": "Missyo.bds_py_26_light.png"
     }
   ]
 }
