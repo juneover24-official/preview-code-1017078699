@@ -1,7 +1,7 @@
 {
   "qq_number": "1017078699",
   "group_number": "1046123815",
-  "updated_at": "2026-04-23T15:52:35.795121",
+  "updated_at": "2026-05-29T11:54:52+00:00",
   "skins": [
     {
       "name": "秋の橱窗里的小叽 彩底",
@@ -434,6 +434,12 @@
       "file": "圣诞快乐.bds",
       "thumb": "圣诞快乐.bds_py_26_light_thumb.png",
       "full": "圣诞快乐.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾系库洛米融底",
+      "file": "蕾系库洛米融底.bdi",
+      "thumb": "蕾系库洛米融底.bdi_py_26_light_thumb.png",
+      "full": "蕾系库洛米融底.bdi_py_26_light_thumb.png"
     }
   ]
 }
