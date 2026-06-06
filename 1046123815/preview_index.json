@@ -1,7 +1,7 @@
 {
   "qq_number": "1017078699",
   "group_number": "1046123815",
-  "updated_at": "2026-06-06T16:24:10+00:00",
+  "updated_at": "2026-06-06T16:25:01+00:00",
   "skins": [
     {
       "name": "秋の橱窗里的小叽 彩底",
@@ -482,6 +482,12 @@
       "file": "五一快乐.bds",
       "thumb": "五一快乐.bds_py_26_light_thumb.png",
       "full": "五一快乐.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "秋の萌兔来袭",
+      "file": "萌兔来袭.bds",
+      "thumb": "萌兔来袭.bds_py_26_light_thumb.png",
+      "full": "萌兔来袭.bds_py_26_light_thumb.png"
     }
   ]
 }
