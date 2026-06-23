@@ -1,7 +1,7 @@
 {
   "qq_number": "1017078699",
   "group_number": "1046123815",
-  "updated_at": "2026-06-06T16:25:43+00:00",
+  "updated_at": "2026-06-23T11:50:04+00:00",
   "skins": [
     {
       "name": "秋の橱窗里的小叽 彩底",
@@ -494,6 +494,12 @@
       "file": "水色果冻kitty.bds",
       "thumb": "水色果冻kitty.bds_py_26_light_thumb.png",
       "full": "水色果冻kitty.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "绿意",
+      "file": "绿意.bdi",
+      "thumb": "绿意.bdi_py_26_light_thumb.png",
+      "full": "绿意.bdi_py_26_light_thumb.png"
     }
   ]
 }
