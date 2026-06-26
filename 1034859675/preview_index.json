@@ -1,7 +1,7 @@
 {
   "qq_number": "1017078699",
   "group_number": "1034859675",
-  "updated_at": "2026-04-23T15:52:35.370198",
+  "updated_at": "2026-06-26T13:07:33+00:00",
   "skins": [
     {
       "name": "菓子熊猫大作战闷闷音",
@@ -746,6 +746,12 @@
       "file": "秋の柳下笺彩底.bds",
       "thumb": "秋の柳下笺彩底.bds_py_26_default_thumb.png",
       "full": "秋の柳下笺彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "海与浪彩底",
+      "file": "海与浪彩底.bdi",
+      "thumb": "海与浪彩底.bdi_py_26_light_thumb.png",
+      "full": "海与浪彩底.bdi_py_26_light_thumb.png"
     }
   ]
 }
