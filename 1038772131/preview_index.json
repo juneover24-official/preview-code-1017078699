@@ -1,7 +1,7 @@
 {
   "qq_number": "1017078699",
   "group_number": "1038772131",
-  "updated_at": "2026-09-18T14:56:13+00:00",
+  "updated_at": "2026-09-18T14:58:09+00:00",
   "skins": [
     {
       "name": "秋の永001 彩底",
@@ -1648,6 +1648,13 @@
       "thumb": "永090.bds_py_26_light_thumb.png",
       "full": "永090.bds_py_26_light_thumb.png",
       "file_id": "79c39d019077b75fe33d495c29926e7d"
+    },
+    {
+      "name": "蓝色少女体质",
+      "file": "永089.bds",
+      "thumb": "永089.bds_py_26_light_thumb.png",
+      "full": "永089.bds_py_26_light_thumb.png",
+      "file_id": "4afd6877c343ca566ec67a7c78890820"
     }
   ]
 }
