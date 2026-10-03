@@ -1,7 +1,7 @@
 {
   "qq_number": "1017078699",
   "group_number": "1038772131",
-  "updated_at": "2026-10-03T06:17:39+00:00",
+  "updated_at": "2026-10-03T06:18:15+00:00",
   "skins": [
     {
       "name": "秋の永001 彩底",
@@ -1669,6 +1669,13 @@
       "thumb": "永093.bdi_py_26_light_thumb.png",
       "full": "永093.bdi_py_26_light_thumb.png",
       "file_id": "f1d4334f1e11761c9b2efb0a53cf3bd2"
+    },
+    {
+      "name": "秋の草莓巧克力",
+      "file": "永090.bdi",
+      "thumb": "永090.bdi_py_26_light_thumb.png",
+      "full": "永090.bdi_py_26_light_thumb.png",
+      "file_id": "4b9f98d0bdcd24ce80610d0f4b6d2287"
     }
   ]
 }
