@@ -1,7 +1,7 @@
 {
   "qq_number": "1017078699",
   "group_number": "1038772131",
-  "updated_at": "2026-11-11T14:20:26+00:00",
+  "updated_at": "2026-11-11T14:20:41+00:00",
   "skins": [
     {
       "name": "秋の永001 彩底",
@@ -1738,6 +1738,13 @@
       "thumb": "永096融底.bdi_py_26_light_thumb.png",
       "full": "永096融底.bdi_py_26_light_thumb.png",
       "file_id": "b0d5a7d03f45b172b1c6243ec8f05cca"
+    },
+    {
+      "name": "秋の永096",
+      "file": "永096融底.bds",
+      "thumb": "永096融底.bds_py_26_light_thumb.png",
+      "full": "永096融底.bds_py_26_light_thumb.png",
+      "file_id": "bc4eca79e4cddc56b19c401d8c584a2d"
     }
   ]
 }
